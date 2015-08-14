@@ -6,7 +6,7 @@ Disclaimer about privilege: I'm a white cis male, and therefore I'm not an exper
 
 I have recently begun looking around for open datasets that would be fun and meaningful to play with to show off my favourite database-slash-search-engine, Elastic. To my delight, I found that the UN Development Programme has some interesting stuff. They publish the well-known Human Development Index that everyone cites when threatening to move to Scandinavia every time our less-enlightened governments of the world drop the ball on basic decency.
 
-In my search, I learned that it's not just the old HDI anymore. They also publish the IHDI, the Inequality Human Development Index. What's better, they also publish the Gender Inequality Index. Both of these datasets are statistically tied-into the original HDI, which makes them comparable in at least one interesting way.
+In my search, I learned that it's not just the old HDI anymore. They also publish the IHDI, the Inequality-adjusted Human Development Index. What's better, they also publish the Gender Inequality Index. Both of these datasets are statistically tied-into the original HDI, which makes them comparable in at least one interesting way.
 
 That is, how does global gender equality relate to overall global equality in human development?
 
