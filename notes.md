@@ -10,7 +10,7 @@ In my search, I learned that it's not just the old HDI anymore. They also publis
 
 That is, how does global gender equality relate to overall global equality in human development?
 
-To be more specific, how do the combination of average national inequalities in reproductive health, women's political empowerment, and women's workplace participation relate to the combination of general average national inequalities in health, education and income?
+To be more specific, how does the combination of average national inequality in reproductive health, women's political empowerment, and women's workplace participation relate to the combination of general average national inequality in health, education and income?
 
 Let's find out!
 
