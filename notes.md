@@ -12,7 +12,13 @@ Disclaimer: these data are published by the UNDP and are missing all kinds of im
 
 ## Setup
 
-For this guide we need to satisfy four dependencies before diving in. First, we need to have Python installed on the system. Second, we need to have Elasticsearch running with a default configuration. Third, we need either PostgreSQL or MongoDB running with a default configuration. Fourth, we need to have `virtualenv` installed, which can be done with the command `sudo pip install virtualenv`.
+For this guide we need to satisfy five dependencies before diving in.
+
+* We need to have Python installed on the system.
+* We need to have Elasticsearch running with a default configuration.
+* We need either PostgreSQL or MongoDB running with a default configuration.
+* We need to have `virtualenv` installed.
+* We need to have `npm` installed.
 
 For this example, I have chosen Postgres, but Mongo works too.
 
@@ -25,22 +31,30 @@ $ virtualenv venv
 $ source venv/bin/activate
 ```
 
-After that,
+After that, install Ramses and generate a new blank project.
 
 ````
 (venv)$ pip install ramses
 (venv)$ pcreate -s ramses_starter humgen
-<output>: 1
+<output>: Select '1' to use Postgres.
 (venv)$ cd humgen/
 (venv)$ pserve local.ini
 ```
 
-Now you will see a server running.
-
-In a new terminal,
+Now you will see a server running. In a new terminal, see what a basic request and response looks like.
 
 ```
+$ curl http://localhost:6543/api/items
+```
 
+Yay! A real REST API that does nothing useful yet.
 
+Now let's fetch the data we want to analyze so we can model it in the API.
 
 ```
+$ cd humgen/
+$ mkdir data
+$ cd data
+$ wget 
+```
+
