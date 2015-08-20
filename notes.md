@@ -1,12 +1,14 @@
 # Create a REST API to visualize data with Elasticsearch and Ramses
 
-This is a post to show how to leverage Elasticsearch for data visualization in a web application. It uses Ramses, a Pyramid-based web framework written in Python. Ramses allows programming beginners to generate production-ready REST APIs that leverage Elasticsearch for all endpoints to eliminate boilerplate and provide for advanced data manipulation. If you'd like to read a tutorial for beginners, please go here: https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/
+This is a post to show how to leverage Elasticsearch for data visualization in a web application. It uses Ramses, a Pyramid-based web framework written in Python. Ramses allows programming beginners to generate production-ready REST APIs that leverage Elasticsearch for all endpoints in order to eliminate boilerplate and provide for advanced data manipulation. If you'd like to read a tutorial for beginners, please go here: https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/
 
 You can see the completed code for this example here: https://github.com/chrstphrhrt/ramses-elasticsearch
 
 ## Datasets
 
-Looking around for datasets to use for this example, I learned that the UN Development Programme publishes two interesting variations on the Human Development Index. The original HDI is what we hear about in media stories with titles like "Best Countries to Live in for Quality of Life." One interesting extension to the HDI is called the Inequality-adjusted Human Development Index (IHDI), which downgrades the normal HDI score of countries proportionally to their level of inequality in the distribution of life expectancy, education, and income. Another very interesting compliment to the HDI is called the Gender Inequality Index (GII), which also downgrades the the level of human development according to women's reproductive health, empowerment, and labour market participation. While the IHDI is a true extension to the HDI because it uses the same metrics, the GII is a compliment because the metrics are different. Both the IHDI and GII were developed using the same underlying theoretical framework, so they are nevertheless comparable.
+Looking around for datasets to use for this example, I learned that the UN Development Programme publishes two interesting variations on the Human Development Index. The original HDI is what we hear about in media stories with titles like "Best Countries to Live in for Quality of Life."
+
+One interesting extension to the HDI is called the Inequality-adjusted Human Development Index (IHDI), which downgrades the normal HDI score of countries proportionally to their level of inequality in the distribution of life expectancy, education, and income. Another very interesting compliment to the HDI is called the Gender Inequality Index (GII), which also downgrades the the level of human development according to women's reproductive health, empowerment, and labour market participation. While the IHDI is a true extension to the HDI because it uses the same metrics, the GII is a compliment because the metrics are different. Both the IHDI and GII were developed using the same underlying theoretical framework, so they are nevertheless comparable.
 
 I thought it would be interesting to find out if there is a correlation between gender inequality and overall inequality by comparing the two scores.
 
@@ -18,7 +20,7 @@ For this guide we need to satisfy five dependencies before diving in.
 
 * We need to have Python installed on the system.
 * We need to have Elasticsearch running with a default configuration.
-* We need either PostgreSQL or MongoDB running with a default configuration.
+* We need either PostgreSQL running with a default configuration.
 * We need to have `virtualenv` installed.
 * We need to have `npm` (the nodejs package manager) installed.
 
@@ -74,3 +76,22 @@ $ npm install -g json-schema-generator
 $ json-schema-generator ../data/ihdi.json -o ihdi.json
 $ json-schema-generator ../data/gii.json -o gii.json
 ```
+
+
+## Modeling the Data
+
+We describe our endpoints in `api.raml`. The first two are exposing the datasets directly, and the third endpoint will relate them in the way we want for visualization.
+
+Open `api.raml` in a text editor and change the boilerplate items example to look like this:
+
+```
+
+```
+
+Notice that between the two datasets, the fields we are most interested in for visualization are:
+
+* country name
+* HDI rank (this is the absolute metric that both inequality figures apply to)
+* gender inequality adjustment (a percentage of loss to development status)
+* overall inequality adjustment (also a percentage loss to HD)
+

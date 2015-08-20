@@ -10,21 +10,44 @@ version: v1
 mediaType: application/json
 protocols: [HTTP]
 
-/items:
-    displayName: Collection of items
+/ihdi_countries:
+    displayName: Collection of IHDI country entries
     get:
-        description: Get all item
+        description: Get all IHDI country entries
     post:
-        description: Create a new item
+        description: Create a new IHDI country entry
         body:
             application/json:
-                schema: !include items.json
+                schema: !include schemas/ihdi.json
 
-    /{id}:
-        displayName: Collection-item
+    /{country}:
+        displayName: One IHDI country entry
         get:
-            description: Get a particular item
-        delete:
-            description: Delete a particular item
-        patch:
-            description: Update a particular item
+
+/gii_countries:
+    displayName: Collection of GII country entries
+    get:
+        description: Get all GII country entries
+    post:
+        description: Create a new GII country entry
+        body:
+            application/json:
+                schema: !include schemas/gii.json
+
+    /{country}:
+        displayName: One GII country entry
+        get:
+
+/combined_inequalities
+    displayName: Collection of combined index values for plotting IHDI/GII
+    get:
+        description: Get all combined IHDI/GII index value coordinates
+    post:
+        description: Create a new combined country entry
+        body:
+            application/json:
+                schema: !include schemas/combined_inequalities.json
+    
+    /{country}
+        displayName: One combined country entry
+    

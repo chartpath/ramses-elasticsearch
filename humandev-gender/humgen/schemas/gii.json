@@ -27,7 +27,7 @@
         "minLength": 1
       },
       "hdi_rank": {
-        "type": "string",
+        "type": "integer",
         "minLength": 1
       },
       "gender_inequality_index_value_2013": {
