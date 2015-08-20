@@ -1,20 +1,18 @@
-Understanding the Effects of Gender Inequality on Global Human Development
+# Create a REST API to visualize data with Elasticsearch and Ramses
 
 This is a post to show how to leverage Elasticsearch for data visualization in a web application. It uses Ramses, a Pyramid-based web framework written in Python. Ramses allows programming beginners to generate production-ready REST APIs that leverage Elasticsearch for all endpoints to eliminate boilerplate and provide for advanced data manipulation. If you'd like to read a tutorial for beginners, please go here: https://realpython.com/blog/python/create-a-rest-api-in-minutes-with-pyramid-and-ramses/
 
-Disclaimer about privilege: I'm a white cis male, and therefore I'm not an expert on issues related to race or gender oppression. I'm also a software developer, not a scientist. So in case I have written anything that experts disagree with on intersectionality or statistics, I automatically defer to them in advance and am extremely grateful if they are able to share comments publicly so that this post can be updated. Also, there are many limitations to the depth of the data presented, which can be seen on the data publisher's site, on Wikipedia, and in the academic literature, so those are all discounted for my purposes here. One obvious gap that I'm particularly aware of is regarding the gender identity spectrum.
+## The Data
 
-I have recently begun looking around for open datasets that would be fun and meaningful to play with to show off my favourite database-slash-search-engine, Elastic. To my delight, I found that the UN Development Programme has some interesting stuff. They publish the well-known Human Development Index that everyone cites when threatening to move to Scandinavia every time our less-enlightened governments of the world drop the ball on basic decency.
+Looking around for datasets to use for this example, I learned that the UN Development Programme publishes two interesting variations on the Human Development Index. The original HDI is what we hear about in media stories with titles like "Best Countries to Live in for Quality of Life." One interesting extension to the HDI is called the Inequality-adjusted Human Development Index (IHDI), which downgrades the normal HDI score of countries proportionally to their level of inequality in the distribution of life expectancy, education, and income. Another very interesting compliment to the HDI is called the Gender Inequality Index (GII), which also downgrades the the level of human development according to women's reproductive health, empowerment, and labour market participation. While the IHDI is a true extension to the HDI because it uses the same metrics, the GII is a compliment because the metrics are different. Both the IHDI and GII were developed using the same underlying theoretical framework, so they are nevertheless comparable.
 
-In my search, I learned that it's not just the old HDI anymore. They also publish the IHDI, the Inequality-adjusted Human Development Index. What's better, they also publish the Gender Inequality Index. Both of these datasets are statistically tied-into the original HDI, which makes them comparable in at least one interesting way.
+I thought it would be interesting to find out if there is a correlation between gender inequality and overall inequality by comparing the two scores.
 
-That is, how does global gender equality relate to overall global equality in human development?
+Disclaimer: these data are published by the UNDP and are missing all kinds of important metrics for other axes of oppression like race, language, religion, disability, and non-binary gender identities. If any experts, academics, statisticians or intersectional feminists want me to correct anything please get in touch by sending me an email to chris@brandicted.com.
 
-To be more specific, how does the combined average national inequality in reproductive health, women's political empowerment, and women's workplace participation relate to the combined average national inequality in health, education and income?
+## Setup
 
-Let's find out!
-
-For this guide we need to satisfy four dependencies before diving in. First, we need to have Python 3 installed on the system. Second, we need to have Elasticsearch running with a default configuration. Third, we need either PostgreSQL or MongoDB running with a default configuration. Fourth, we need to have `virtualenv` installed, which can be done with the command `sudo pip install virtualenv`.
+For this guide we need to satisfy four dependencies before diving in. First, we need to have Python installed on the system. Second, we need to have Elasticsearch running with a default configuration. Third, we need either PostgreSQL or MongoDB running with a default configuration. Fourth, we need to have `virtualenv` installed, which can be done with the command `sudo pip install virtualenv`.
 
 For this example, I have chosen Postgres, but Mongo works too.
 
@@ -23,7 +21,7 @@ Now, try the following in a terminal:
 ```
 $ mkdir humandev-gender
 $ cd humandev-gender
-$ virtualenv -p python3 venv
+$ virtualenv venv
 $ source venv/bin/activate
 ```
 
