@@ -1,33 +1,28 @@
 {
-  "type": "array",
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "",
-  "minItems": 1,
-  "uniqueItems": true,
-  "items": {
-    "type": "object",
-    "required": [
-      "country",
-      "hdi_rank",
-      "gender_inequality_index_value_2013",
-      "_2013_inequality_adjusted_hdi_ihdi_overall_loss"
-    ],
-    "properties": {
-      "country": {
-        "type": "string",
-        "minLength": 1
-      },
-      "hdi_rank": {
+  "type": "object",
+  "title": "Combined Inequality schema",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "required": ["country"],
+  "properties": {
+    "country": {
+      "_db_settings": {
+        "type": "id_field",
+        "primary_key": true
+      }
+    },
+    "hdi_rank": {
+      "_db_settings": {
         "type": "integer",
-        "minLength": 1
-      },
-      "gender_inequality_index_value_2013": {
-        "type": "float",
-        "minLength": 1
-      },
-      "_2013_inequality_adjusted_hdi_ihdi_overall_loss": {
-        "type": "float",
-        "minLength": 1
+      }
+    },
+    "gender_inequality_index_value_2013": {
+      "_db_settings": {
+        "type": "string",
+      }
+    },
+    "_2013_inequality_adjusted_hdi_ihdi_overall_loss": {
+      "_db_settings": {
+        "type": "string",
       }
     }
   }

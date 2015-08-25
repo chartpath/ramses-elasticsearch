@@ -1,78 +1,74 @@
 {
-  "type": "array",
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "description": "",
-  "minItems": 1,
-  "uniqueItems": true,
-  "items": {
-    "type": "object",
-    "required": [
-      "labour_force_participation_rate_aged_15_and_above_male_2012",
-      "hdi_rank",
-      "gender_inequality_index_value_2013",
-      "gender_inequality_index_rank_2013",
-      "population_with_at_least_some_secondary_education_aged_25_and_above_female_2005_2012",
-      "country",
-      "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19",
-      "labour_force_participation_rate_aged_15_and_above_female_2012",
-      "_2013_share_of_seats_in_parliament_held_by_women",
-      "population_with_at_least_some_secondary_education_aged_25_and_above_male_2005_2012",
-      "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births",
-      "note_2",
-      "note_3"
-    ],
-    "properties": {
-      "labour_force_participation_rate_aged_15_and_above_male_2012": {
-        "type": "string",
-        "minLength": 1
-      },
-      "hdi_rank": {
-        "type": "integer",
-        "minLength": 1
-      },
-      "gender_inequality_index_value_2013": {
-        "type": "string",
-        "minLength": 1
-      },
-      "gender_inequality_index_rank_2013": {
-        "type": "string",
-        "minLength": 1
-      },
-      "population_with_at_least_some_secondary_education_aged_25_and_above_female_2005_2012": {
-        "type": "string",
-        "minLength": 1
-      },
-      "country": {
-        "type": "string",
-        "minLength": 1
-      },
-      "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19": {
-        "type": "string",
-        "minLength": 1
-      },
-      "labour_force_participation_rate_aged_15_and_above_female_2012": {
-        "type": "string",
-        "minLength": 1
-      },
-      "_2013_share_of_seats_in_parliament_held_by_women": {
-        "type": "string",
-        "minLength": 1
-      },
-      "population_with_at_least_some_secondary_education_aged_25_and_above_male_2005_2012": {
-        "type": "string",
-        "minLength": 1
-      },
-      "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": {
-        "type": "string",
-        "minLength": 1
-      },
-      "note_2": {
-        "type": "string",
-        "minLength": 1
-      },
-      "note_3": {
-        "type": "string",
-        "minLength": 1
+  "type": "object",
+  "title": "IHDI Country schema",
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "required": ["country"],
+  "properties": {
+    "labour_force_participation_rate_aged_15_and_above_male_2012": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "hdi_rank": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "gender_inequality_index_value_2013": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "gender_inequality_index_rank_2013": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "population_with_at_least_some_secondary_ed_25_and_up_female_2005_2012": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "country": {
+      "type": "string",
+      "_db_settings": {
+        "type": "id_field",
+        "primary_key": true
+      }
+    },
+    "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "labour_force_participation_rate_aged_15_and_above_female_2012": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "_2013_share_of_seats_in_parliament_held_by_women": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "population_with_at_least_some_secondary_ed_25_and_up_male_2005_2012": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "note_2": {
+      "_db_settings": {
+        "type": "string"
+      }
+    },
+    "note_3": {
+      "_db_settings": {
+        "type": "string"
       }
     }
   }

@@ -12,7 +12,7 @@ One interesting extension to the HDI is called the Inequality-adjusted Human Dev
 
 I thought it would be interesting to find out if there is a correlation between gender inequality and overall inequality by comparing the two scores.
 
-Disclaimer: these data are published by the UNDP and are missing all kinds of important metrics for other axes of oppression like race, language, religion, disability, and non-binary gender identities. If any experts, academics, statisticians or intersectional feminists want me to correct anything please get in touch by sending me an email to chris@brandicted.com.
+Disclaimer: these data are published by the UNDP and are missing all kinds of important metrics for other axes of oppression like race, language, religion, disability, and non-binary gender identities. If any experts, academics or statisticians want me to correct anything please get in touch by sending me an email to chris@brandicted.com.
 
 ## Setup
 

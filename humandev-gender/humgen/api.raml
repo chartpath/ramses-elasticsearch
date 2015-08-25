@@ -38,16 +38,16 @@ protocols: [HTTP]
         displayName: One GII country entry
         get:
 
-/combined_inequalities
-    displayName: Collection of combined index values for plotting IHDI/GII
-    get:
-        description: Get all combined IHDI/GII index value coordinates
-    post:
-        description: Create a new combined country entry
-        body:
-            application/json:
-                schema: !include schemas/combined_inequalities.json
-    
-    /{country}
-        displayName: One combined country entry
-    
+# /combined_inequalities:
+#     displayName: Collection of combined index values for plotting IHDI/GII
+#     get:
+#         description: Get all combined IHDI/GII index value coordinates
+#     post:
+#         description: Create a new combined country entry
+#         body:
+#             application/json:
+#                 schema: !include schemas/combined_inequalities.json
+#
+#     /{country}:
+#         displayName: One combined country entry
+#
