@@ -1,0 +1,30 @@
+#%RAML 0.8
+---
+title: gii_api API
+documentation:
+    - title: gii_api REST API
+      content: |
+        Welcome to the gii_api API.
+baseUri: http://{host}:{port}/{version}
+version: v1
+mediaType: application/json
+protocols: [HTTP]
+
+/gii_countries:
+    displayName: Collection of GII countries
+    get:
+        description: Get all countries
+    post:
+        description: Create a new country
+        body:
+            application/json:
+                schema: !include gii_schema.json
+
+    /{country}:
+        displayName: A GII country
+        get:
+            description: Get a particular country
+        delete:
+            description: Delete a particular country
+        patch:
+            description: Update a particular country

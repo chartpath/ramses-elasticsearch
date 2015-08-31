@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 requires = ['pyramid']
 
-setup(name='humgen',
+setup(name='gii_api',
     version='0.0.1',
     description='',
     long_description='',
@@ -21,9 +21,9 @@ setup(name='humgen',
     zip_safe=False,
     install_requires=requires,
     tests_require=requires,
-    test_suite="humgen",
+    test_suite="gii_api",
     entry_points="""\
     [paste.app_factory]
-        main = humgen:main
+        main = gii_api:main
     """,
 )

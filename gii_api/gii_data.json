@@ -1,0 +1,2538 @@
+[ {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "69.5",
+  "hdi_rank" : "1",
+  "gender_inequality_index_value_2013" : "0.068",
+  "gender_inequality_index_rank_2013" : "9",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "97.4",
+  "country" : "Norway",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "7.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "61.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "39.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "96.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.9",
+  "hdi_rank" : "2",
+  "gender_inequality_index_value_2013" : "0.113",
+  "gender_inequality_index_rank_2013" : "19",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "94.3",
+  "country" : "Australia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "58.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "29.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "94.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.3",
+  "hdi_rank" : "3",
+  "gender_inequality_index_value_2013" : "0.030",
+  "gender_inequality_index_rank_2013" : "2",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "95.0",
+  "country" : "Switzerland",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "1.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "61.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "27.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "96.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "87.3",
+  "hdi_rank" : "4",
+  "gender_inequality_index_value_2013" : "0.057",
+  "gender_inequality_index_rank_2013" : "7",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "87.7",
+  "country" : "Netherlands",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "6.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "79.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "37.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "90.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "6"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "69.3",
+  "hdi_rank" : "5",
+  "gender_inequality_index_value_2013" : "0.262",
+  "gender_inequality_index_rank_2013" : "47",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "95.1",
+  "country" : "United States",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "31.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "94.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "21"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.4",
+  "hdi_rank" : "6",
+  "gender_inequality_index_value_2013" : "0.046",
+  "gender_inequality_index_rank_2013" : "3",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "96.3",
+  "country" : "Germany",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "3.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "53.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "32.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "97.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.9",
+  "hdi_rank" : "7",
+  "gender_inequality_index_value_2013" : "0.185",
+  "gender_inequality_index_rank_2013" : "34",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "95.0",
+  "country" : "New Zealand",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "25.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "62.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "32.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "95.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "15"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.2",
+  "hdi_rank" : "8",
+  "gender_inequality_index_value_2013" : "0.136",
+  "gender_inequality_index_rank_2013" : "23",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "100.0",
+  "country" : "Canada",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "14.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "61.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "28.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "100.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "12"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.5",
+  "hdi_rank" : "9",
+  "gender_inequality_index_value_2013" : "0.090",
+  "gender_inequality_index_rank_2013" : "15",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "74.1",
+  "country" : "Singapore",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "6.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "59.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "81.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "3"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.5",
+  "hdi_rank" : "10",
+  "gender_inequality_index_value_2013" : "0.056",
+  "gender_inequality_index_rank_2013" : "5",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "95.5",
+  "country" : "Denmark",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "5.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "59.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "39.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "96.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "12"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.9",
+  "hdi_rank" : "11",
+  "gender_inequality_index_value_2013" : "0.115",
+  "gender_inequality_index_rank_2013" : "20",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "80.5",
+  "country" : "Ireland",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "8.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "78.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "6"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.1",
+  "hdi_rank" : "12",
+  "gender_inequality_index_value_2013" : "0.054",
+  "gender_inequality_index_rank_2013" : "4",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "86.5",
+  "country" : "Sweden",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "6.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "60.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "44.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "87.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "4"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.3",
+  "hdi_rank" : "13",
+  "gender_inequality_index_value_2013" : "0.088",
+  "gender_inequality_index_rank_2013" : "14",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "91.0",
+  "country" : "Iceland",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "11.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "70.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "39.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "91.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "5"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.8",
+  "hdi_rank" : "14",
+  "gender_inequality_index_value_2013" : "0.193",
+  "gender_inequality_index_rank_2013" : "35",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "99.8",
+  "country" : "United Kingdom",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "25.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "22.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "99.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "12"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.0",
+  "hdi_rank" : "15",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "72.2",
+  "country" : "Hong Kong, China (SAR)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "3.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "79.2"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "72.0",
+  "hdi_rank" : "15",
+  "gender_inequality_index_value_2013" : "0.101",
+  "gender_inequality_index_rank_2013" : "17",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "77.0",
+  "country" : "Korea (Republic of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "2.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "49.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "89.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "16"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.4",
+  "hdi_rank" : "17",
+  "gender_inequality_index_value_2013" : "0.138",
+  "gender_inequality_index_rank_2013" : "25",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "87.0",
+  "country" : "Japan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "5.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "48.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "85.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "5"
+}
+, {
+  "hdi_rank" : "18",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Liechtenstein",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.0"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "69.5",
+  "hdi_rank" : "19",
+  "gender_inequality_index_value_2013" : "0.101",
+  "gender_inequality_index_rank_2013" : "17",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "84.4",
+  "country" : "Israel",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "7.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "58.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "22.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "87.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "61.8",
+  "hdi_rank" : "20",
+  "gender_inequality_index_value_2013" : "0.080",
+  "gender_inequality_index_rank_2013" : "12",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "78.0",
+  "country" : "France",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "5.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "83.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.7",
+  "hdi_rank" : "21",
+  "gender_inequality_index_value_2013" : "0.056",
+  "gender_inequality_index_rank_2013" : "5",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "100.0",
+  "country" : "Austria",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "4.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "54.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "28.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "100.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "4"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "59.4",
+  "hdi_rank" : "21",
+  "gender_inequality_index_value_2013" : "0.068",
+  "gender_inequality_index_rank_2013" : "9",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "77.5",
+  "country" : "Belgium",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "6.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "46.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "38.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "82.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "64.9",
+  "hdi_rank" : "21",
+  "gender_inequality_index_value_2013" : "0.154",
+  "gender_inequality_index_rank_2013" : "29",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "100.0",
+  "country" : "Luxembourg",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "8.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "100.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "20"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "64.3",
+  "hdi_rank" : "24",
+  "gender_inequality_index_value_2013" : "0.075",
+  "gender_inequality_index_rank_2013" : "11",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "100.0",
+  "country" : "Finland",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "9.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "42.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "100.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "5"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "63.5",
+  "hdi_rank" : "25",
+  "gender_inequality_index_value_2013" : "0.021",
+  "gender_inequality_index_rank_2013" : "1",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "95.8",
+  "country" : "Slovenia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "0.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "98.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "12"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "59.4",
+  "hdi_rank" : "26",
+  "gender_inequality_index_value_2013" : "0.067",
+  "gender_inequality_index_rank_2013" : "8",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "71.2",
+  "country" : "Italy",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "4.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "39.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "30.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "80.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "4"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.5",
+  "hdi_rank" : "27",
+  "gender_inequality_index_value_2013" : "0.100",
+  "gender_inequality_index_rank_2013" : "16",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.8",
+  "country" : "Spain",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "10.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "35.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "73.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "6"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.8",
+  "hdi_rank" : "28",
+  "gender_inequality_index_value_2013" : "0.087",
+  "gender_inequality_index_rank_2013" : "13",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "99.9",
+  "country" : "Czech Republic",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "4.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "99.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "5"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "62.6",
+  "hdi_rank" : "29",
+  "gender_inequality_index_value_2013" : "0.146",
+  "gender_inequality_index_rank_2013" : "27",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "59.5",
+  "country" : "Greece",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "11.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "67.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "3"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.6",
+  "hdi_rank" : "30",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.6",
+  "country" : "Brunei Darussalam",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "23.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "61.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "24"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "95.6",
+  "hdi_rank" : "31",
+  "gender_inequality_index_value_2013" : "0.524",
+  "gender_inequality_index_rank_2013" : "113",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.7",
+  "country" : "Qatar",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "9.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "0.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "59.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.8",
+  "hdi_rank" : "32",
+  "gender_inequality_index_value_2013" : "0.136",
+  "gender_inequality_index_rank_2013" : "23",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "72.2",
+  "country" : "Cyprus",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "5.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "79.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "10"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.7",
+  "hdi_rank" : "33",
+  "gender_inequality_index_value_2013" : "0.154",
+  "gender_inequality_index_rank_2013" : "29",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "100.0",
+  "country" : "Estonia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "16.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "100.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "2"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.5",
+  "hdi_rank" : "34",
+  "gender_inequality_index_value_2013" : "0.321",
+  "gender_inequality_index_rank_2013" : "56",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "60.5",
+  "country" : "Saudi Arabia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "10.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "18.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "70.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "24"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.3",
+  "hdi_rank" : "35",
+  "gender_inequality_index_value_2013" : "0.116",
+  "gender_inequality_index_rank_2013" : "21",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "89.1",
+  "country" : "Lithuania",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "10.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "94.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "64.8",
+  "hdi_rank" : "35",
+  "gender_inequality_index_value_2013" : "0.139",
+  "gender_inequality_index_rank_2013" : "26",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "79.4",
+  "country" : "Poland",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "48.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "85.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "5"
+}
+, {
+  "hdi_rank" : "37",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "49.5",
+  "country" : "Andorra",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "50.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "49.3"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.7",
+  "hdi_rank" : "37",
+  "gender_inequality_index_value_2013" : "0.164",
+  "gender_inequality_index_rank_2013" : "32",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "99.1",
+  "country" : "Slovakia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "15.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "99.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "6"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.5",
+  "hdi_rank" : "39",
+  "gender_inequality_index_value_2013" : "0.220",
+  "gender_inequality_index_rank_2013" : "41",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "68.6",
+  "country" : "Malta",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "38.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "14.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "78.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "91.0",
+  "hdi_rank" : "40",
+  "gender_inequality_index_value_2013" : "0.244",
+  "gender_inequality_index_rank_2013" : "43",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "73.1",
+  "country" : "United Arab Emirates",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "27.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "46.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "61.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "12"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.6",
+  "hdi_rank" : "41",
+  "gender_inequality_index_value_2013" : "0.355",
+  "gender_inequality_index_rank_2013" : "68",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "73.3",
+  "country" : "Chile",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "55.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "49.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "76.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "25"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.2",
+  "hdi_rank" : "41",
+  "gender_inequality_index_value_2013" : "0.116",
+  "gender_inequality_index_rank_2013" : "21",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "47.7",
+  "country" : "Portugal",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "28.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "48.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "59.9",
+  "hdi_rank" : "43",
+  "gender_inequality_index_value_2013" : "0.247",
+  "gender_inequality_index_rank_2013" : "45",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "97.9",
+  "country" : "Hungary",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "8.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "98.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "21"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "87.2",
+  "hdi_rank" : "44",
+  "gender_inequality_index_value_2013" : "0.253",
+  "gender_inequality_index_rank_2013" : "46",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "74.4",
+  "country" : "Bahrain",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "13.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "39.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "80.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "20"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.1",
+  "hdi_rank" : "44",
+  "gender_inequality_index_value_2013" : "0.350",
+  "gender_inequality_index_rank_2013" : "66",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "73.9",
+  "country" : "Cuba",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "43.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "43.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "48.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "80.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "73"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.8",
+  "hdi_rank" : "46",
+  "gender_inequality_index_value_2013" : "0.288",
+  "gender_inequality_index_rank_2013" : "50",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "55.6",
+  "country" : "Kuwait",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "14.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "43.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "6.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "56.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "14"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "58.5",
+  "hdi_rank" : "47",
+  "gender_inequality_index_value_2013" : "0.172",
+  "gender_inequality_index_rank_2013" : "33",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "85.0",
+  "country" : "Croatia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "23.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "93.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "17"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.1",
+  "hdi_rank" : "48",
+  "gender_inequality_index_value_2013" : "0.222",
+  "gender_inequality_index_rank_2013" : "42",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "98.9",
+  "country" : "Latvia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "13.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "54.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "23.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "99.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "34"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.0",
+  "hdi_rank" : "49",
+  "gender_inequality_index_value_2013" : "0.381",
+  "gender_inequality_index_rank_2013" : "74",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "57.0",
+  "country" : "Argentina",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "54.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "47.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "37.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "54.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "77"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.1",
+  "gender_inequality_index_value_2013" : "0.315",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "60.2",
+  "country" : "High human development",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "28.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "57.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "69.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "42"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.8",
+  "hdi_rank" : "50",
+  "gender_inequality_index_value_2013" : "0.364",
+  "gender_inequality_index_rank_2013" : "70",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "54.4",
+  "country" : "Uruguay",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "58.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "50.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "29"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.3",
+  "hdi_rank" : "51",
+  "gender_inequality_index_value_2013" : "0.316",
+  "gender_inequality_index_rank_2013" : "53",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "91.2",
+  "country" : "Bahamas",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "28.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "69.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "16.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "87.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "47"
+}
+, {
+  "hdi_rank" : "51",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "84.2",
+  "country" : "Montenegro",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "15.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "94.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "62.7",
+  "hdi_rank" : "53",
+  "gender_inequality_index_value_2013" : "0.152",
+  "gender_inequality_index_rank_2013" : "28",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "87.0",
+  "country" : "Belarus",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "20.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "49.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "29.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "92.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "4"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "64.7",
+  "hdi_rank" : "54",
+  "gender_inequality_index_value_2013" : "0.320",
+  "gender_inequality_index_rank_2013" : "54",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "86.1",
+  "country" : "Romania",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "31.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "48.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "11.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "92.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "27"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.4",
+  "hdi_rank" : "55",
+  "gender_inequality_index_value_2013" : "0.215",
+  "gender_inequality_index_rank_2013" : "40",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "55.6",
+  "country" : "Libya",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "2.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "30.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "16.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "44.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "58"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.8",
+  "hdi_rank" : "56",
+  "gender_inequality_index_value_2013" : "0.348",
+  "gender_inequality_index_rank_2013" : "64",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "47.2",
+  "country" : "Oman",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "10.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "28.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "9.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "57.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "32"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.4",
+  "hdi_rank" : "57",
+  "gender_inequality_index_value_2013" : "0.314",
+  "gender_inequality_index_rank_2013" : "52",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "89.6",
+  "country" : "Russian Federation",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "25.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "57.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "92.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "34"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "58.8",
+  "hdi_rank" : "58",
+  "gender_inequality_index_value_2013" : "0.207",
+  "gender_inequality_index_rank_2013" : "38",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "93.0",
+  "country" : "Bulgaria",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "35.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "47.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "95.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "11"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.7",
+  "hdi_rank" : "59",
+  "gender_inequality_index_value_2013" : "0.350",
+  "gender_inequality_index_rank_2013" : "66",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "89.5",
+  "country" : "Barbados",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "48.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "65.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "87.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "51"
+}
+, {
+  "hdi_rank" : "60",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Palau",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.3"
+}
+, {
+  "hdi_rank" : "61",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Antigua and Barbuda",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "49.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.4"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.3",
+  "hdi_rank" : "62",
+  "gender_inequality_index_value_2013" : "0.210",
+  "gender_inequality_index_rank_2013" : "39",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.0",
+  "country" : "Malaysia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "5.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "72.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "29"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.3",
+  "hdi_rank" : "63",
+  "gender_inequality_index_value_2013" : "0.375",
+  "gender_inequality_index_rank_2013" : "72",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "49.4",
+  "country" : "Mauritius",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "30.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "43.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "58.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "60"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.5",
+  "hdi_rank" : "64",
+  "gender_inequality_index_value_2013" : "0.321",
+  "gender_inequality_index_rank_2013" : "56",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "59.4",
+  "country" : "Trinidad and Tobago",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "34.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "26.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "59.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "46"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.5",
+  "hdi_rank" : "65",
+  "gender_inequality_index_value_2013" : "0.413",
+  "gender_inequality_index_rank_2013" : "80",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "38.8",
+  "country" : "Lebanon",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "22.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "3.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "38.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "25"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.9",
+  "hdi_rank" : "65",
+  "gender_inequality_index_value_2013" : "0.506",
+  "gender_inequality_index_rank_2013" : "107",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "63.5",
+  "country" : "Panama",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "78.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "49.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "8.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "60.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "92"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.2",
+  "hdi_rank" : "67",
+  "gender_inequality_index_value_2013" : "0.464",
+  "gender_inequality_index_rank_2013" : "96",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "56.5",
+  "country" : "Venezuela (Bolivarian Republic of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "83.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "50.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "92"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.0",
+  "hdi_rank" : "68",
+  "gender_inequality_index_value_2013" : "0.344",
+  "gender_inequality_index_rank_2013" : "63",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "54.5",
+  "country" : "Costa Rica",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "60.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "46.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "38.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "52.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "40"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.8",
+  "hdi_rank" : "69",
+  "gender_inequality_index_value_2013" : "0.360",
+  "gender_inequality_index_rank_2013" : "69",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "39.0",
+  "country" : "Turkey",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "30.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "29.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "14.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "60.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "20"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.5",
+  "hdi_rank" : "70",
+  "gender_inequality_index_value_2013" : "0.323",
+  "gender_inequality_index_rank_2013" : "59",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "99.3",
+  "country" : "Kazakhstan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "29.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "67.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "99.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "51"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.0",
+  "hdi_rank" : "71",
+  "gender_inequality_index_value_2013" : "0.376",
+  "gender_inequality_index_rank_2013" : "73",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "55.7",
+  "country" : "Mexico",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "63.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "45.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "36.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "60.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "50"
+}
+, {
+  "hdi_rank" : "71",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.9",
+  "country" : "Seychelles",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "56.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "43.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "66.6"
+}
+, {
+  "hdi_rank" : "73",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Saint Kitts and Nevis",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "6.7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.4",
+  "hdi_rank" : "73",
+  "gender_inequality_index_value_2013" : "0.383",
+  "gender_inequality_index_rank_2013" : "75",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "72.7",
+  "country" : "Sri Lanka",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "16.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "35.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "5.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "75.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "35"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.1",
+  "hdi_rank" : "75",
+  "gender_inequality_index_value_2013" : "0.510",
+  "gender_inequality_index_rank_2013" : "109",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "62.2",
+  "country" : "Iran (Islamic Republic of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "31.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "16.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "3.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "67.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "21"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.9",
+  "hdi_rank" : "76",
+  "gender_inequality_index_value_2013" : "0.340",
+  "gender_inequality_index_rank_2013" : "62",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "93.7",
+  "country" : "Azerbaijan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "40.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "62.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "16.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "97.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "43"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.2",
+  "hdi_rank" : "77",
+  "gender_inequality_index_value_2013" : "0.488",
+  "gender_inequality_index_rank_2013" : "101",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "69.5",
+  "country" : "Jordan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "26.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "15.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "78.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "63"
+}
+, {
+  "hdi_rank" : "77",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "58.4",
+  "country" : "Serbia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "16.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "33.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "73.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "12"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.9",
+  "hdi_rank" : "79",
+  "gender_inequality_index_value_2013" : "0.441",
+  "gender_inequality_index_rank_2013" : "85",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "51.9",
+  "country" : "Brazil",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "70.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "59.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "9.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "49.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "56"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.7",
+  "hdi_rank" : "79",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Georgia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "46.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "67"
+}
+, {
+  "hdi_rank" : "79",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Grenada",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "35.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "24"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "84.4",
+  "hdi_rank" : "82",
+  "gender_inequality_index_value_2013" : "0.387",
+  "gender_inequality_index_rank_2013" : "77",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "56.3",
+  "country" : "Peru",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "50.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "68.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "66.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "67"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.6",
+  "hdi_rank" : "83",
+  "gender_inequality_index_value_2013" : "0.326",
+  "gender_inequality_index_rank_2013" : "61",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "91.5",
+  "country" : "Ukraine",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "25.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "53.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "9.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "96.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "32"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.3",
+  "hdi_rank" : "84",
+  "gender_inequality_index_value_2013" : "0.435",
+  "gender_inequality_index_rank_2013" : "84",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "35.2",
+  "country" : "Belize",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "71.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "49.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "32.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "53"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.3",
+  "hdi_rank" : "84",
+  "gender_inequality_index_value_2013" : "0.162",
+  "gender_inequality_index_rank_2013" : "31",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "40.2",
+  "country" : "The former Yugoslav Republic of Macedonia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "42.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "34.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "55.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "10"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "57.2",
+  "hdi_rank" : "86",
+  "gender_inequality_index_value_2013" : "0.201",
+  "gender_inequality_index_rank_2013" : "36",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "44.8",
+  "country" : "Bosnia and Herzegovina",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "15.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "34.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "70.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "8"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.4",
+  "hdi_rank" : "87",
+  "gender_inequality_index_value_2013" : "0.325",
+  "gender_inequality_index_rank_2013" : "60",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "94.1",
+  "country" : "Armenia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "27.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "94.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "30"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "72.0",
+  "hdi_rank" : "88",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "57.5",
+  "country" : "Fiji",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "42.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "37.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "58.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "26"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.8",
+  "hdi_rank" : "89",
+  "gender_inequality_index_value_2013" : "0.364",
+  "gender_inequality_index_rank_2013" : "70",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "35.7",
+  "country" : "Thailand",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "41.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "64.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "40.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "48"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.6",
+  "hdi_rank" : "90",
+  "gender_inequality_index_value_2013" : "0.265",
+  "gender_inequality_index_rank_2013" : "48",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "32.8",
+  "country" : "Tunisia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "4.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "25.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "26.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "46.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "56"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.1",
+  "hdi_rank" : "91",
+  "gender_inequality_index_value_2013" : "0.202",
+  "gender_inequality_index_rank_2013" : "37",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "58.7",
+  "country" : "China",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "8.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "63.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "23.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "71.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "37"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.2",
+  "hdi_rank" : "91",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Saint Vincent and the Grenadines",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "54.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "48"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.9",
+  "hdi_rank" : "93",
+  "gender_inequality_index_value_2013" : "0.425",
+  "gender_inequality_index_rank_2013" : "81",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "20.9",
+  "country" : "Algeria",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "10.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "15.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "27.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "97"
+}
+, {
+  "hdi_rank" : "93",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "29.7",
+  "country" : "Dominica",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "23.2"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "65.4",
+  "hdi_rank" : "95",
+  "gender_inequality_index_value_2013" : "0.245",
+  "gender_inequality_index_rank_2013" : "44",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "81.8",
+  "country" : "Albania",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "15.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "45.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "87.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "27"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.0",
+  "hdi_rank" : "96",
+  "gender_inequality_index_value_2013" : "0.457",
+  "gender_inequality_index_rank_2013" : "88",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "74.0",
+  "country" : "Jamaica",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "70.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "71.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "110"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.0",
+  "hdi_rank" : "97",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Saint Lucia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "56.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "62.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "35"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.7",
+  "hdi_rank" : "98",
+  "gender_inequality_index_value_2013" : "0.460",
+  "gender_inequality_index_rank_2013" : "92",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "56.9",
+  "country" : "Colombia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "68.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "55.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "92"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.6",
+  "hdi_rank" : "98",
+  "gender_inequality_index_value_2013" : "0.429",
+  "gender_inequality_index_rank_2013" : "82",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "40.1",
+  "country" : "Ecuador",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "77.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "54.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "38.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "39.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "110"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.8",
+  "hdi_rank" : "100",
+  "gender_inequality_index_value_2013" : "0.463",
+  "gender_inequality_index_rank_2013" : "95",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "44.6",
+  "country" : "Suriname",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "35.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "40.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "11.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "47.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "130"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.8",
+  "hdi_rank" : "100",
+  "gender_inequality_index_value_2013" : "0.458",
+  "gender_inequality_index_rank_2013" : "90",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "87.5",
+  "country" : "Tonga",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "53.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "3.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "88.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "110"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.7",
+  "hdi_rank" : "102",
+  "gender_inequality_index_value_2013" : "0.505",
+  "gender_inequality_index_rank_2013" : "105",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "55.6",
+  "country" : "Dominican Republic",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "99.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "53.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "150"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.0",
+  "gender_inequality_index_value_2013" : "0.513",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "34.2",
+  "country" : "Medium human development",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "43.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "38.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "51.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "186"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.1",
+  "hdi_rank" : "103",
+  "gender_inequality_index_value_2013" : "0.283",
+  "gender_inequality_index_rank_2013" : "49",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "13.3",
+  "country" : "Maldives",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "4.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "6.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "16.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "60"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.8",
+  "hdi_rank" : "103",
+  "gender_inequality_index_value_2013" : "0.320",
+  "gender_inequality_index_rank_2013" : "54",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "85.3",
+  "country" : "Mongolia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "14.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "84.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "63"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.5",
+  "hdi_rank" : "103",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Turkmenistan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "46.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "16.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "67"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "58.4",
+  "hdi_rank" : "106",
+  "gender_inequality_index_value_2013" : "0.517",
+  "gender_inequality_index_rank_2013" : "111",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "64.3",
+  "country" : "Samoa",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "28.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "23.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "4.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "60.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "100"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.3",
+  "hdi_rank" : "107",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "31.5",
+  "country" : "Palestine, State of",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "45.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "15.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "32.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "64"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "84.4",
+  "hdi_rank" : "108",
+  "gender_inequality_index_value_2013" : "0.500",
+  "gender_inequality_index_rank_2013" : "103",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "39.9",
+  "country" : "Indonesia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "48.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "49.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "220"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.5",
+  "hdi_rank" : "109",
+  "gender_inequality_index_value_2013" : "0.486",
+  "gender_inequality_index_rank_2013" : "100",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "73.6",
+  "country" : "Botswana",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "44.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "71.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "7.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "77.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "160"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.6",
+  "hdi_rank" : "110",
+  "gender_inequality_index_value_2013" : "0.580",
+  "gender_inequality_index_rank_2013" : "130",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "43.4",
+  "country" : "Egypt",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "43.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "23.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "2.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "59.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "66"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "84.8",
+  "hdi_rank" : "111",
+  "gender_inequality_index_value_2013" : "0.457",
+  "gender_inequality_index_rank_2013" : "88",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "36.8",
+  "country" : "Paraguay",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "67.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "40.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "99"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "65.1",
+  "hdi_rank" : "112",
+  "gender_inequality_index_value_2013" : "0.508",
+  "gender_inequality_index_rank_2013" : "108",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "53.8",
+  "country" : "Gabon",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "103.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "16.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "34.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "230"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.9",
+  "hdi_rank" : "113",
+  "gender_inequality_index_value_2013" : "0.472",
+  "gender_inequality_index_rank_2013" : "97",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "47.6",
+  "country" : "Bolivia (Plurinational State of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "71.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "64.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "30.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "59.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "190"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "43.3",
+  "hdi_rank" : "114",
+  "gender_inequality_index_value_2013" : "0.302",
+  "gender_inequality_index_rank_2013" : "51",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "93.6",
+  "country" : "Moldova (Republic of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "29.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "37.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "96.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "41"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.0",
+  "hdi_rank" : "115",
+  "gender_inequality_index_value_2013" : "0.441",
+  "gender_inequality_index_rank_2013" : "85",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "36.8",
+  "country" : "El Salvador",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "76.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "47.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "26.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "43.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "81"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.2",
+  "hdi_rank" : "116",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Uzbekistan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "38.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "47.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "28"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.7",
+  "hdi_rank" : "117",
+  "gender_inequality_index_value_2013" : "0.406",
+  "gender_inequality_index_rank_2013" : "78",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "65.9",
+  "country" : "Philippines",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "46.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "26.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "63.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "99"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "60.0",
+  "hdi_rank" : "118",
+  "gender_inequality_index_value_2013" : "0.461",
+  "gender_inequality_index_rank_2013" : "94",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "72.7",
+  "country" : "South Africa",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "50.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "41.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "75.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "300"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "72.7",
+  "hdi_rank" : "118",
+  "gender_inequality_index_value_2013" : "0.556",
+  "gender_inequality_index_rank_2013" : "125",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "29.0",
+  "country" : "Syrian Arab Republic",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "41.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "13.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "38.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "70"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "69.7",
+  "hdi_rank" : "120",
+  "gender_inequality_index_value_2013" : "0.542",
+  "gender_inequality_index_rank_2013" : "120",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "22.0",
+  "country" : "Iraq",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "68.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "14.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "42.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "63"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.9",
+  "hdi_rank" : "121",
+  "gender_inequality_index_value_2013" : "0.524",
+  "gender_inequality_index_rank_2013" : "113",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "61.5",
+  "country" : "Guyana",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "88.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "42.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "31.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "48.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "280"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.9",
+  "hdi_rank" : "121",
+  "gender_inequality_index_value_2013" : "0.322",
+  "gender_inequality_index_rank_2013" : "58",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "59.4",
+  "country" : "Viet Nam",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "29.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "72.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "71.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "59"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "83.5",
+  "hdi_rank" : "123",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Cape Verde",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "70.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "79"
+}
+, {
+  "hdi_rank" : "124",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Micronesia (Federated States of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "0.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "100"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "88.2",
+  "hdi_rank" : "125",
+  "gender_inequality_index_value_2013" : "0.523",
+  "gender_inequality_index_rank_2013" : "112",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "21.9",
+  "country" : "Guatemala",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "97.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "49.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "23.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "120"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.0",
+  "hdi_rank" : "125",
+  "gender_inequality_index_value_2013" : "0.348",
+  "gender_inequality_index_rank_2013" : "64",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "94.5",
+  "country" : "Kyrgyzstan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "29.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "23.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "96.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "71"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.2",
+  "hdi_rank" : "127",
+  "gender_inequality_index_value_2013" : "0.450",
+  "gender_inequality_index_rank_2013" : "87",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "33.0",
+  "country" : "Namibia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "54.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "75.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "34.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "200"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "51.1",
+  "hdi_rank" : "128",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Timor-Leste",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "52.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "24.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "38.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "300"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.9",
+  "hdi_rank" : "129",
+  "gender_inequality_index_value_2013" : "0.482",
+  "gender_inequality_index_rank_2013" : "99",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "28.0",
+  "country" : "Honduras",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "84.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "42.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "25.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "100"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "57.4",
+  "hdi_rank" : "129",
+  "gender_inequality_index_value_2013" : "0.460",
+  "gender_inequality_index_rank_2013" : "92",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "20.1",
+  "country" : "Morocco",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "35.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "43.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "11.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "36.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "100"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.3",
+  "hdi_rank" : "131",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Vanuatu",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "44.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "61.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "0.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "110"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.1",
+  "hdi_rank" : "132",
+  "gender_inequality_index_value_2013" : "0.458",
+  "gender_inequality_index_rank_2013" : "90",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "30.8",
+  "country" : "Nicaragua",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "100.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "47.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "40.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "44.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "95"
+}
+, {
+  "hdi_rank" : "133",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Kiribati",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "16.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "8.7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.9",
+  "hdi_rank" : "133",
+  "gender_inequality_index_value_2013" : "0.383",
+  "gender_inequality_index_rank_2013" : "75",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "89.9",
+  "country" : "Tajikistan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "42.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "58.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "95.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "65"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.9",
+  "hdi_rank" : "135",
+  "gender_inequality_index_value_2013" : "0.563",
+  "gender_inequality_index_rank_2013" : "127",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "26.6",
+  "country" : "India",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "32.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "28.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "50.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "200"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.9",
+  "hdi_rank" : "136",
+  "gender_inequality_index_value_2013" : "0.495",
+  "gender_inequality_index_rank_2013" : "102",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "34.0",
+  "country" : "Bhutan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "40.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "66.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "6.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "34.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "180"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "86.5",
+  "hdi_rank" : "136",
+  "gender_inequality_index_value_2013" : "0.505",
+  "gender_inequality_index_rank_2013" : "105",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "9.9",
+  "country" : "Cambodia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "44.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "78.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "22.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "250"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.2",
+  "hdi_rank" : "138",
+  "gender_inequality_index_value_2013" : "0.549",
+  "gender_inequality_index_rank_2013" : "123",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "45.2",
+  "country" : "Ghana",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "58.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "67.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "64.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "350"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.9",
+  "hdi_rank" : "139",
+  "gender_inequality_index_value_2013" : "0.534",
+  "gender_inequality_index_rank_2013" : "118",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "22.9",
+  "country" : "Lao People's Democratic Republic",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "65.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "76.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "36.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "470"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "72.9",
+  "hdi_rank" : "140",
+  "gender_inequality_index_value_2013" : "0.617",
+  "gender_inequality_index_rank_2013" : "135",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "43.8",
+  "country" : "Congo",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "126.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "68.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "9.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "48.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "560"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "85.7",
+  "hdi_rank" : "141",
+  "gender_inequality_index_value_2013" : "0.617",
+  "gender_inequality_index_rank_2013" : "135",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "25.7",
+  "country" : "Zambia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "125.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "73.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "11.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "44.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "440"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "84.1",
+  "hdi_rank" : "142",
+  "gender_inequality_index_value_2013" : "0.529",
+  "gender_inequality_index_rank_2013" : "115",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "30.8",
+  "country" : "Bangladesh",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "80.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "57.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "39.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "240"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.5",
+  "hdi_rank" : "142",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Sao Tome and Principe",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "65.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "70"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "92.3",
+  "hdi_rank" : "144",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Equatorial Guinea",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "112.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "80.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "240"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.4",
+  "gender_inequality_index_value_2013" : "0.587",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "14.3",
+  "country" : "Low human development",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "92.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "28.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "427"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "63.2",
+  "hdi_rank" : "145",
+  "gender_inequality_index_value_2013" : "0.479",
+  "gender_inequality_index_rank_2013" : "98",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "17.9",
+  "country" : "Nepal",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "73.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "54.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "33.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "39.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "170"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.9",
+  "hdi_rank" : "146",
+  "gender_inequality_index_value_2013" : "0.563",
+  "gender_inequality_index_rank_2013" : "127",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "19.3",
+  "country" : "Pakistan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "27.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "24.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "46.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "260"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "72.2",
+  "hdi_rank" : "147",
+  "gender_inequality_index_value_2013" : "0.548",
+  "gender_inequality_index_rank_2013" : "122",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "25.3",
+  "country" : "Kenya",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "93.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "62.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "31.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "360"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.3",
+  "hdi_rank" : "148",
+  "gender_inequality_index_value_2013" : "0.529",
+  "gender_inequality_index_rank_2013" : "115",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "49.9",
+  "country" : "Swaziland",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "72.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "43.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "46.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "320"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.9",
+  "hdi_rank" : "149",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Angola",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "170.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "63.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "34.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "450"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "82.9",
+  "hdi_rank" : "150",
+  "gender_inequality_index_value_2013" : "0.430",
+  "gender_inequality_index_rank_2013" : "83",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "18.0",
+  "country" : "Myanmar",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "12.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "85.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "4.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "17.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "200"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "85.5",
+  "hdi_rank" : "151",
+  "gender_inequality_index_value_2013" : "0.410",
+  "gender_inequality_index_rank_2013" : "79",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "7.4",
+  "country" : "Rwanda",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "33.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "86.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "51.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "8.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "340"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.7",
+  "hdi_rank" : "152",
+  "gender_inequality_index_value_2013" : "0.622",
+  "gender_inequality_index_rank_2013" : "138",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "21.1",
+  "country" : "Cameroon",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "115.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "63.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "16.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "34.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "690"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "63.5",
+  "hdi_rank" : "152",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Nigeria",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "119.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "48.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "6.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "630"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "71.8",
+  "hdi_rank" : "154",
+  "gender_inequality_index_value_2013" : "0.733",
+  "gender_inequality_index_rank_2013" : "152",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "7.6",
+  "country" : "Yemen",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "47.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "25.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "0.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "24.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "200"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "90.6",
+  "hdi_rank" : "155",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Madagascar",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "122.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "86.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "240"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "89.7",
+  "hdi_rank" : "156",
+  "gender_inequality_index_value_2013" : "0.516",
+  "gender_inequality_index_rank_2013" : "110",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "48.8",
+  "country" : "Zimbabwe",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "60.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "83.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "35.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "62.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "570"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.0",
+  "hdi_rank" : "157",
+  "gender_inequality_index_value_2013" : "0.617",
+  "gender_inequality_index_rank_2013" : "135",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "6.8",
+  "country" : "Papua New Guinea",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "62.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "70.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "2.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "14.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "230"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.1",
+  "hdi_rank" : "157",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Solomon Islands",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "64.9",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "53.4",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "2.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "93"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.2",
+  "hdi_rank" : "159",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Comoros",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "51.1",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "35.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "3.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "280"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "90.2",
+  "hdi_rank" : "159",
+  "gender_inequality_index_value_2013" : "0.553",
+  "gender_inequality_index_rank_2013" : "124",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "5.6",
+  "country" : "Tanzania (United Republic of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "122.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "88.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "36.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "9.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "460"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.0",
+  "hdi_rank" : "161",
+  "gender_inequality_index_value_2013" : "0.644",
+  "gender_inequality_index_rank_2013" : "142",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "8.0",
+  "country" : "Mauritania",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "73.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "28.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "19.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "20.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "510"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.3",
+  "hdi_rank" : "162",
+  "gender_inequality_index_value_2013" : "0.557",
+  "gender_inequality_index_rank_2013" : "126",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "21.9",
+  "country" : "Lesotho",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "89.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "58.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "26.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "19.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "620"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "88.0",
+  "hdi_rank" : "163",
+  "gender_inequality_index_value_2013" : "0.537",
+  "gender_inequality_index_rank_2013" : "119",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "7.2",
+  "country" : "Senegal",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "94.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "65.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "42.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "15.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "370"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.3",
+  "hdi_rank" : "164",
+  "gender_inequality_index_value_2013" : "0.529",
+  "gender_inequality_index_rank_2013" : "115",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "22.9",
+  "country" : "Uganda",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "126.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "75.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "35.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "33.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "310"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.3",
+  "hdi_rank" : "165",
+  "gender_inequality_index_value_2013" : "0.614",
+  "gender_inequality_index_rank_2013" : "134",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "11.2",
+  "country" : "Benin",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "90.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "67.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "8.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "25.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "350"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.0",
+  "hdi_rank" : "166",
+  "gender_inequality_index_value_2013" : "0.628",
+  "gender_inequality_index_rank_2013" : "140",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "12.8",
+  "country" : "Sudan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "84.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "31.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "18.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "730"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.2",
+  "hdi_rank" : "166",
+  "gender_inequality_index_value_2013" : "0.579",
+  "gender_inequality_index_rank_2013" : "129",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "15.3",
+  "country" : "Togo",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "91.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "80.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "45.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "300"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.8",
+  "hdi_rank" : "168",
+  "gender_inequality_index_value_2013" : "0.599",
+  "gender_inequality_index_rank_2013" : "132",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "22.5",
+  "country" : "Haiti",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "42.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "60.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "3.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "36.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "350"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.7",
+  "hdi_rank" : "169",
+  "gender_inequality_index_value_2013" : "0.705",
+  "gender_inequality_index_rank_2013" : "149",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "5.8",
+  "country" : "Afghanistan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "86.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "15.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "27.6",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "34.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "460"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.3",
+  "hdi_rank" : "170",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Djibouti",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "36.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.7",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "200"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.5",
+  "hdi_rank" : "171",
+  "gender_inequality_index_value_2013" : "0.645",
+  "gender_inequality_index_rank_2013" : "143",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "13.7",
+  "country" : "Côte d'Ivoire",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "130.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "29.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "400"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "83.0",
+  "hdi_rank" : "172",
+  "gender_inequality_index_value_2013" : "0.624",
+  "gender_inequality_index_rank_2013" : "139",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "16.9",
+  "country" : "Gambia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "115.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "72.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "7.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "31.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "360"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "89.4",
+  "hdi_rank" : "173",
+  "gender_inequality_index_value_2013" : "0.547",
+  "gender_inequality_index_rank_2013" : "121",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "7.8",
+  "country" : "Ethiopia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "78.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "78.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "18.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "350"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.3",
+  "hdi_rank" : "174",
+  "gender_inequality_index_value_2013" : "0.591",
+  "gender_inequality_index_rank_2013" : "131",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "10.4",
+  "country" : "Malawi",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "144.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "84.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "22.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "20.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "460"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "64.7",
+  "hdi_rank" : "175",
+  "gender_inequality_index_value_2013" : "0.655",
+  "gender_inequality_index_rank_2013" : "145",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "15.7",
+  "country" : "Liberia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "117.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "58.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "11.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "39.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "770"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.4",
+  "hdi_rank" : "176",
+  "gender_inequality_index_value_2013" : "0.673",
+  "gender_inequality_index_rank_2013" : "148",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "7.7",
+  "country" : "Mali",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "175.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "10.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "15.1",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "540"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.5",
+  "hdi_rank" : "177",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Guinea-Bissau",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "99.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "68.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "14.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "790"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.8",
+  "hdi_rank" : "178",
+  "gender_inequality_index_value_2013" : "0.657",
+  "gender_inequality_index_rank_2013" : "146",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "1.5",
+  "country" : "Mozambique",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "137.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "26.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "39.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "6.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "490"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.3",
+  "hdi_rank" : "179",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Guinea",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "131.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "65.5",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "610"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.8",
+  "hdi_rank" : "180",
+  "gender_inequality_index_value_2013" : "0.501",
+  "gender_inequality_index_rank_2013" : "104",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "5.2",
+  "country" : "Burundi",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "30.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "83.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "34.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "9.3",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "800"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "90.1",
+  "hdi_rank" : "181",
+  "gender_inequality_index_value_2013" : "0.607",
+  "gender_inequality_index_rank_2013" : "133",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "0.9",
+  "country" : "Burkina Faso",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "115.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "77.1",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "3.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "300"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "89.8",
+  "hdi_rank" : "182",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Eritrea",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "65.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "79.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "22.0",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "240"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.9",
+  "hdi_rank" : "183",
+  "gender_inequality_index_value_2013" : "0.643",
+  "gender_inequality_index_rank_2013" : "141",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "9.5",
+  "country" : "Sierra Leone",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "100.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "65.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.4",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "20.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "890"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.2",
+  "hdi_rank" : "184",
+  "gender_inequality_index_value_2013" : "0.707",
+  "gender_inequality_index_rank_2013" : "150",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "1.7",
+  "country" : "Chad",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "152.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "64.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "14.9",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "9.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "1100"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "85.1",
+  "hdi_rank" : "185",
+  "gender_inequality_index_value_2013" : "0.654",
+  "gender_inequality_index_rank_2013" : "144",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "10.3",
+  "country" : "Central African Republic",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "98.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "72.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "12.5",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "26.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "890"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.2",
+  "hdi_rank" : "186",
+  "gender_inequality_index_value_2013" : "0.669",
+  "gender_inequality_index_rank_2013" : "147",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "10.7",
+  "country" : "Congo (Democratic Republic of the)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "135.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "70.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "8.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "36.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "540"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "89.8",
+  "hdi_rank" : "187",
+  "gender_inequality_index_value_2013" : "0.709",
+  "gender_inequality_index_rank_2013" : "151",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "2.5",
+  "country" : "Niger",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "204.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "39.9",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "7.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "590"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "84.2",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Korea (Democratic People's Rep. of)",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "0.6",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "72.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "15.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "81"
+}
+, {
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Marshall Islands",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "3.0"
+}
+, {
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Monaco",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.8"
+}
+, {
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Nauru",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "5.3"
+}
+, {
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "San Marino",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.3"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.6",
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Somalia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "110.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "37.2",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.8",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "1000"
+}
+, {
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "South Sudan",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "75.3",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "24.3"
+}
+, {
+  "gender_inequality_index_value_2013" : "",
+  "gender_inequality_index_rank_2013" : "",
+  "country" : "Tuvalu",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "6.7"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.2",
+  "gender_inequality_index_value_2013" : "0.546",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "32.9",
+  "country" : "Arab States",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "45.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "24.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "13.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "46.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "164"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.3",
+  "gender_inequality_index_value_2013" : "0.331",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "54.6",
+  "country" : "East Asia and the Pacific",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "21.2",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "62.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "66.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "72"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.2",
+  "gender_inequality_index_value_2013" : "0.317",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "70.4",
+  "country" : "Europe and Central Asia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "30.8",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "45.5",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "18.2",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "80.6",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "31"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.8",
+  "gender_inequality_index_value_2013" : "0.416",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "53.3",
+  "country" : "Latin America and the Caribbean",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "68.3",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "53.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "25.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "53.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "74"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.7",
+  "gender_inequality_index_value_2013" : "0.539",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "28.4",
+  "country" : "South Asia",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "38.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "30.7",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "17.8",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "49.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "202"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.3",
+  "gender_inequality_index_value_2013" : "0.578",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "21.9",
+  "country" : "Sub-Saharan Africa",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "109.7",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "63.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.7",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "31.9",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "474"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.6",
+  "gender_inequality_index_value_2013" : "0.571",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "15.8",
+  "country" : "Least developed countries",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "97.0",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "64.0",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "20.3",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "26.4",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "389"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.3",
+  "gender_inequality_index_value_2013" : "0.478",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "50.4",
+  "country" : "Small island developing states",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "61.5",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "52.8",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "23.0",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "55.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "195"
+}
+, {
+  "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.7",
+  "gender_inequality_index_value_2013" : "0.450",
+  "gender_inequality_index_rank_2013" : "",
+  "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "54.1",
+  "country" : "World",
+  "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "47.4",
+  "labour_force_participation_rate_aged_15_and_above_female_2012" : "50.6",
+  "_2013_share_of_seats_in_parliament_held_by_women" : "21.1",
+  "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012" : "64.2",
+  "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "145"
+}
+ ]
