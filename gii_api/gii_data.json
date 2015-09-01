@@ -183,8 +183,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "68.0",
   "hdi_rank" : "15",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "72.2",
   "country" : "Hong Kong, China (SAR)",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "3.3",
@@ -219,8 +219,8 @@
 }
 , {
   "hdi_rank" : "18",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Liechtenstein",
   "_2013_share_of_seats_in_parliament_held_by_women" : "20.0"
 }
@@ -370,8 +370,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.6",
   "hdi_rank" : "30",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.6",
   "country" : "Brunei Darussalam",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "23.0",
@@ -459,8 +459,8 @@
 }
 , {
   "hdi_rank" : "37",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "49.5",
   "country" : "Andorra",
   "_2013_share_of_seats_in_parliament_held_by_women" : "50.0",
@@ -625,7 +625,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.1",
   "gender_inequality_index_value_2013" : "0.315",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "60.2",
   "country" : "High human development",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "28.8",
@@ -662,8 +662,8 @@
 }
 , {
   "hdi_rank" : "51",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "84.2",
   "country" : "Montenegro",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "15.2",
@@ -764,15 +764,15 @@
 }
 , {
   "hdi_rank" : "60",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Palau",
   "_2013_share_of_seats_in_parliament_held_by_women" : "10.3"
 }
 , {
   "hdi_rank" : "61",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Antigua and Barbuda",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "49.3",
   "_2013_share_of_seats_in_parliament_held_by_women" : "19.4"
@@ -909,8 +909,8 @@
 }
 , {
   "hdi_rank" : "71",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "66.9",
   "country" : "Seychelles",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "56.3",
@@ -919,8 +919,8 @@
 }
 , {
   "hdi_rank" : "73",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Saint Kitts and Nevis",
   "_2013_share_of_seats_in_parliament_held_by_women" : "6.7"
 }
@@ -978,8 +978,8 @@
 }
 , {
   "hdi_rank" : "77",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "58.4",
   "country" : "Serbia",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "16.9",
@@ -1003,8 +1003,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "74.7",
   "hdi_rank" : "79",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Georgia",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "46.8",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "56.2",
@@ -1013,8 +1013,8 @@
 }
 , {
   "hdi_rank" : "79",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Grenada",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "35.4",
   "_2013_share_of_seats_in_parliament_held_by_women" : "25.0",
@@ -1101,8 +1101,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "72.0",
   "hdi_rank" : "88",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "57.5",
   "country" : "Fiji",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "42.8",
@@ -1152,8 +1152,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.2",
   "hdi_rank" : "91",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Saint Vincent and the Grenadines",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "54.5",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "55.7",
@@ -1175,8 +1175,8 @@
 }
 , {
   "hdi_rank" : "93",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "29.7",
   "country" : "Dominica",
   "_2013_share_of_seats_in_parliament_held_by_women" : "12.5",
@@ -1211,8 +1211,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.0",
   "hdi_rank" : "97",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Saint Lucia",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "56.3",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "62.6",
@@ -1287,7 +1287,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.0",
   "gender_inequality_index_value_2013" : "0.513",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "34.2",
   "country" : "Medium human development",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "43.4",
@@ -1325,8 +1325,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.5",
   "hdi_rank" : "103",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Turkmenistan",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.0",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "46.7",
@@ -1349,8 +1349,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "66.3",
   "hdi_rank" : "107",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "31.5",
   "country" : "Palestine, State of",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "45.8",
@@ -1465,8 +1465,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.2",
   "hdi_rank" : "116",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Uzbekistan",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "38.8",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "47.9",
@@ -1554,8 +1554,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "83.5",
   "hdi_rank" : "123",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Cape Verde",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "70.6",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "51.1",
@@ -1564,8 +1564,8 @@
 }
 , {
   "hdi_rank" : "124",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Micronesia (Federated States of)",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.6",
   "_2013_share_of_seats_in_parliament_held_by_women" : "0.1",
@@ -1613,8 +1613,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "51.1",
   "hdi_rank" : "128",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Timor-Leste",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "52.2",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "24.7",
@@ -1650,8 +1650,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.3",
   "hdi_rank" : "131",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Vanuatu",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "44.8",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "61.5",
@@ -1673,8 +1673,8 @@
 }
 , {
   "hdi_rank" : "133",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Kiribati",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "16.6",
   "_2013_share_of_seats_in_parliament_held_by_women" : "8.7"
@@ -1799,8 +1799,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "77.5",
   "hdi_rank" : "142",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Sao Tome and Principe",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "65.1",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "44.9",
@@ -1810,8 +1810,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "92.3",
   "hdi_rank" : "144",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Equatorial Guinea",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "112.6",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "80.6",
@@ -1821,7 +1821,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.4",
   "gender_inequality_index_value_2013" : "0.587",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "14.3",
   "country" : "Low human development",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "92.3",
@@ -1885,8 +1885,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.9",
   "hdi_rank" : "149",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Angola",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "170.2",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "63.1",
@@ -1935,8 +1935,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "63.5",
   "hdi_rank" : "152",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Nigeria",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "119.6",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "48.1",
@@ -1959,8 +1959,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "90.6",
   "hdi_rank" : "155",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Madagascar",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "122.8",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "86.8",
@@ -1996,8 +1996,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.1",
   "hdi_rank" : "157",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Solomon Islands",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "64.9",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "53.4",
@@ -2007,8 +2007,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.2",
   "hdi_rank" : "159",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Comoros",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "51.1",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "35.0",
@@ -2148,8 +2148,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "67.3",
   "hdi_rank" : "170",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Djibouti",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "18.6",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "36.1",
@@ -2237,8 +2237,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.5",
   "hdi_rank" : "177",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Guinea-Bissau",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "99.3",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "68.1",
@@ -2261,8 +2261,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "78.3",
   "hdi_rank" : "179",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Guinea",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "131.0",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "65.5",
@@ -2297,8 +2297,8 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "89.8",
   "hdi_rank" : "182",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Eritrea",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "65.3",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "79.9",
@@ -2372,8 +2372,8 @@
 }
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "84.2",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Korea (Democratic People's Rep. of)",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "0.6",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "72.3",
@@ -2381,33 +2381,33 @@
   "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "81"
 }
 , {
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Marshall Islands",
   "_2013_share_of_seats_in_parliament_held_by_women" : "3.0"
 }
 , {
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Monaco",
   "_2013_share_of_seats_in_parliament_held_by_women" : "20.8"
 }
 , {
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Nauru",
   "_2013_share_of_seats_in_parliament_held_by_women" : "5.3"
 }
 , {
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "San Marino",
   "_2013_share_of_seats_in_parliament_held_by_women" : "18.3"
 }
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "75.6",
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Somalia",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "110.4",
   "labour_force_participation_rate_aged_15_and_above_female_2012" : "37.2",
@@ -2415,22 +2415,22 @@
   "_2010_maternal_mortality_ratio_deaths_per_100_000_live_births" : "1000"
 }
 , {
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "South Sudan",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "75.3",
   "_2013_share_of_seats_in_parliament_held_by_women" : "24.3"
 }
 , {
-  "gender_inequality_index_value_2013" : "",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_value_2013" : null,
+  "gender_inequality_index_rank_2013" : null,
   "country" : "Tuvalu",
   "_2013_share_of_seats_in_parliament_held_by_women" : "6.7"
 }
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.2",
   "gender_inequality_index_value_2013" : "0.546",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "32.9",
   "country" : "Arab States",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "45.4",
@@ -2442,7 +2442,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.3",
   "gender_inequality_index_value_2013" : "0.331",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "54.6",
   "country" : "East Asia and the Pacific",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "21.2",
@@ -2454,7 +2454,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "70.2",
   "gender_inequality_index_value_2013" : "0.317",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "70.4",
   "country" : "Europe and Central Asia",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "30.8",
@@ -2466,7 +2466,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "79.8",
   "gender_inequality_index_value_2013" : "0.416",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "53.3",
   "country" : "Latin America and the Caribbean",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "68.3",
@@ -2478,7 +2478,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "80.7",
   "gender_inequality_index_value_2013" : "0.539",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "28.4",
   "country" : "South Asia",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "38.7",
@@ -2490,7 +2490,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.3",
   "gender_inequality_index_value_2013" : "0.578",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "21.9",
   "country" : "Sub-Saharan Africa",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "109.7",
@@ -2502,7 +2502,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "81.6",
   "gender_inequality_index_value_2013" : "0.571",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "15.8",
   "country" : "Least developed countries",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "97.0",
@@ -2514,7 +2514,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "73.3",
   "gender_inequality_index_value_2013" : "0.478",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "50.4",
   "country" : "Small island developing states",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "61.5",
@@ -2526,7 +2526,7 @@
 , {
   "labour_force_participation_rate_aged_15_and_above_male_2012" : "76.7",
   "gender_inequality_index_value_2013" : "0.450",
-  "gender_inequality_index_rank_2013" : "",
+  "gender_inequality_index_rank_2013" : null,
   "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012" : "54.1",
   "country" : "World",
   "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19" : "47.4",

@@ -1,10 +1,10 @@
 # Make an Elasticsearch-powered REST API for any data with Ramses
 
-Many startup products seem to take the form of "collect data from a third party and mash it up with something else".
+Many startup products seem to take the form of "collect data from a third party and mash it up with something".
 
-In this short guide I'm going to show you how download a dataset and create a REST API out of it. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to expose Elasticsearch directly in production. This also allows for proper authentication and security, custom logic, other databases, and even auto-generated client libraries.
+In this short guide I'm going to show you how download a dataset and create a REST API out of it. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to expose Elasticsearch directly in production. This also allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
 
-Ramses is a bit like Parse for open source in that it provides the convenience of "backend as a service" except that you run the server yourself and have full access to the internals.
+Ramses is a bit like Parse for open source in that it provides the convenience of "backend as a service", except that you run the server yourself and have full access to the internals. Also, there's no fancy GUI (yet).
 
 One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon.
 
@@ -177,6 +177,8 @@ We want to replace the "properties" section with the field names and types from 
 }
 ```
 
+**Note:** the `_db_settings` is Ramses-specific and is used to tell the DB engine(s) how to configure themselves. There are a bunch more options in addition to the types. Have a look at the docs here: https://ramses.readthedocs.org/en/latest/fields.html
+
 Now that we have data and a schema to describe it, let's hook up the endpoints. Open `api.raml` change the boilerplate Item endpoint to use the GII countries schema instead.
 
 Before:
@@ -214,7 +216,7 @@ protocols: [HTTP]
             description: Update a particular item
 ```
 
-...after:
+...and after:
 
 ```yaml
 #%RAML 0.8
@@ -251,7 +253,7 @@ protocols: [HTTP]
 
 Simple!
 
-Now we can drop the database, delete the Elasticsearch index and restart the server. Make sure to keep the
+Now we can drop the database, delete the Elasticsearch index and restart the server.
 
 ```bash
 (venv)$ dropdb gii_api
@@ -264,5 +266,17 @@ Content-Type: application/json; charset=UTF-8
     "acknowledged": true
 }
 (venv)$ pserve local.ini
+...
+Starting server in PID 45998.
+serving on http://0.0.0.0:6543
 ```
 
+It's time to post all the data to the API so that we can start making queries. With the server already running, open a new terminal. I like to use our built-in script for this. Activate the project's virtual environment and do the post like so:
+
+```bash
+$ . venv/bin/activate
+(venv)$ nefertari.post2api -f gii_data.json -u http://localhost:6543/api/gii_countries
+Posting: {"_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": "7", "gender_inequality_index_rank_2013": "9", "gender_inequality_index_value_2013": "0.068", "country": "Norway", "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012": "97.4", "_2013_share_of_seats_in_parliament_held_by_women": "39.6", "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19": "7.8", "labour_force_participation_rate_aged_15_and_above_female_2012": "61.5", "labour_force_participation_rate_aged_15_and_above_male_2012": "69.5", "hdi_rank": "1", "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012": "96.7"}
+201
+...
+```
