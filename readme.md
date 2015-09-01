@@ -181,7 +181,7 @@ We want to replace the "properties" section with the field names and types from 
 
 **Note:** the `_db_settings` is Ramses-specific and is used to tell the DB engine(s) how to configure themselves. There are a bunch more options in addition to the types. Have a look at the docs here: https://ramses.readthedocs.org/en/latest/fields.html
 
-Now that we have data and a schema to describe it, let's hook up the endpoints. Open `api.raml` change the boilerplate Item endpoint to use the GII countries schema instead.
+Now that we have data and a schema to describe it, let's hook up the endpoints. Open `api.raml` and change the boilerplate Item endpoint to use the GII countries schema instead.
 
 Before:
 
@@ -285,9 +285,9 @@ Posting: {"_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": "7", 
 
 ## Querying the data
 
-If for some reason you think narratives are boring and want to go directly to the reference without passing Go or collecting $200, you can see all the following techniques (and more) documented here: https://nefertari.readthedocs.org/en/stable/making_requests.html
+If you want to go directly to the reference, you can see all the following techniques (and more) documented here: https://nefertari.readthedocs.org/en/stable/making_requests.html
 
-Now we can start poking around the data to see what kinds of interesting facts we are able to extract with Ramses.
+Now we can start poking around in the data to see what kinds of interesting facts we are able to extract with Ramses.
 
 Here's the most basic request, showing a specific country:
 
