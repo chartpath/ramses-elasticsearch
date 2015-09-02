@@ -4,22 +4,23 @@ Many startup products these days seem to take the form of "collect data from a t
 
 In this short guide I'm going to show you how download a dataset and create a REST API out of it. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to expose Elasticsearch directly in production. This also allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
 
-Ramses is a bit like Parse for open source in that it provides the convenience of "backend as a service", except that you run the server yourself and have full access to the internals. Also, there's no fancy GUI (yet).
+[Ramses](https://github.com/brandicted/ramses) is a bit like [Parse](https://parse.com/) for open source in that it provides the convenience of a "backend as a service", except that you run the server yourself and have full access to the internals.
 
-One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon. ![Gender Equality](https://github.com/chrstphrhrt/ramses-elasticsearch/raw/master/eq.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Igualtat_de_sexes.svg/2000px-Igualtat_de_sexes.svg.png" alt="Gender Equality" style="width:200px;float:right;padding-left:20px"> One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon.
+
 
 Read all about the dataset here: http://hdr.undp.org/en/content/gender-inequality-index-gii
 
-Let's make a REST API out of the GII and then query it in fun ways using the Elasticsearch query DSL via the endpoint's URL.
+Let's make a REST API out of the GII and then query it in fun ways using the Elasticsearch query DSL via the endpoint URL.
 
 You can see the completed code for this example here: https://github.com/chrstphrhrt/ramses-elasticsearch
 
 ## Set up the project
 
-I'm assuming a you have some things already before we dive in:
+I'm assuming a you have some things already working before we dive in:
 
 * Recent versions of Elasticsearch and PostgreSQL installed and running in the background with default configurations.
-* Python 2.7, 3.3 or 3.4 and virtualenv
+* Python 2.7, 3.3 or 3.4 and [virtualenv](https://virtualenv.pypa.io/en/latest/)
 * I'm using [httpie](https://github.com/jkbrzt/httpie) but you can use curl if you want.
 
 Open a terminal, install Ramses, and create your new project:
@@ -342,9 +343,11 @@ To customize where in the records the pagination begins or which page of the seq
 
 #### Imaginary leaderboard app
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" style="width:240px;float:left;padding-right:20px">
+
 For example, let's say we have a leaderboard app that considers the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we also want to filter out the noise from the other fields since we only care about one particular metric. Here are some examples of how to do that.
 
-**"Gold medal" countries for women's participation in the labour market:**
+##### "Gold medal" countries for women's participation in the labour market:
 ```bash
 $ http :6543/api/gii_countries _limit==5 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
 HTTP/1.1 200 OK
@@ -393,9 +396,9 @@ Server: waitress
 }
 ```
 
-Way to go Tanzania! It would be interesting to learn about the nature of these jobs as well, but that is beyond the scope here.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png" alt="Tanzania" style="width:160px;float:right;padding-left:20px"> Way to go Tanzania! It would be interesting to learn more about the nature and quality of these jobs as well, but that is beyond our scope here.
 
-**"Silver medallists" in women's labour market participation:**
+##### "Silver medallists" in women's labour market participation:
 
 Let's add another argument `_start` to get the 6th-10th records, inclusive.
 
@@ -449,7 +452,7 @@ Server: waitress
 
 Give it up for Zimbabwe!
 
-**"Bronze medallists":**
+##### "Bronze medallists":
 
 Even though we can use the `_start` parameter like we did for the silver medallists, let's use `_page` to get the bronze countries instead. This should give us the 11th-15th records, inclusive.
 
