@@ -17,7 +17,7 @@ You can see the completed code for this example here: https://github.com/chrstph
 
 ## Set up the project
 
-I'm assuming a you have some things already working before we dive in:
+I'm assuming you have some things already working before we dive in:
 
 * Recent versions of Elasticsearch and PostgreSQL installed and running in the background with default configurations.
 * Python 2.7, 3.3 or 3.4 and [virtualenv](https://virtualenv.pypa.io/en/latest/)
@@ -26,6 +26,7 @@ I'm assuming a you have some things already working before we dive in:
 Open a terminal, install Ramses, and create your new project:
 
 ```bash
+$ mkdir gii_project && cd gii_project
 $ virtualenv venv
 $ source venv/bin/activate
 (venv)$ pip install ramses
@@ -57,7 +58,7 @@ $ wget https://raw.githubusercontent.com/chrstphrhrt/ramses-elasticsearch/master
 $ mv items.json gii_schema.json
 ```
 
-**Note**: you can also get the data from the UNDP site but I wanted to clean it up a little beforehand for this guide.
+**Note**: you can also get the data from the [UNDP site](http://hdr.undp.org/en/content/gender-inequality-index-gii) but I wanted to clean it up a little beforehand for this guide.
 
 Now edit the `gii_schema.json` file to describe the fields we see in the raw data. Look in `gii_data.json` for the field names and types.
 
@@ -182,7 +183,7 @@ We want to replace the "properties" section with the field names and types from 
 }
 ```
 
-**Note:** the `_db_settings` is Ramses-specific and is used to tell the DB engine(s) how to configure themselves. There are a bunch more options in addition to the types. Have a look at the docs here: https://ramses.readthedocs.org/en/latest/fields.html
+**Note:** the `_db_settings` is Ramses-specific and is used to tell the DB engine(s) how to configure themselves. There are a bunch more options in addition to the types. Have a look at the docs here: https://ramses.readthedocs.org/en/stable/fields.html
 
 Now that we have data and a schema to describe it, let's hook up the endpoints. Open `api.raml` and change the boilerplate Item endpoint to use the GII countries schema instead.
 
@@ -279,8 +280,9 @@ serving on http://0.0.0.0:6543
 It's time to post all the data to the API so that we can start making queries. With the server already running, open a new terminal. I like to use our built-in script for this. Activate the project's virtual environment and do the post like so:
 
 ```bash
+$ cd gii_project/
 $ . venv/bin/activate
-(venv)$ nefertari.post2api -f gii_data.json -u http://localhost:6543/api/gii_countries
+(venv)$ nefertari.post2api -f gii_api/gii_data.json -u http://localhost:6543/api/gii_countries
 Posting: {"_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": "7", "gender_inequality_index_rank_2013": "9", "gender_inequality_index_value_2013": "0.068", "country": "Norway", "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012": "97.4", "_2013_share_of_seats_in_parliament_held_by_women": "39.6", "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19": "7.8", "labour_force_participation_rate_aged_15_and_above_female_2012": "61.5", "labour_force_participation_rate_aged_15_and_above_male_2012": "69.5", "hdi_rank": "1", "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012": "96.7"}
 201
 ...
@@ -343,7 +345,7 @@ To customize where in the records the pagination begins or which page of the seq
 
 #### Imaginary leaderboard app
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" width=240 align=left hspace=30 />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" width=240 align=right hspace=30 />
 
 For example, let's say we have a leaderboard app that considers the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we also want to filter out the noise from the other fields since we only care about one particular metric. Here are some examples of how to do that.
 
@@ -403,20 +405,25 @@ Server: waitress
 Let's add another argument `_start` to get the 6th-10th records, inclusive.
 
 ```bash
-$ http :6543/api/gii_countries _limit==5 _start==6 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
+$ http :6543/api/gii_countries _limit==5 _start==5 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
 HTTP/1.1 200 OK
 Cache-Control: max-age=0, must-revalidate, no-cache, no-store
 Content-Length: 744
 Content-Type: application/json; charset=UTF-8
-Date: Tue, 01 Sep 2015 18:50:03 GMT
-Expires: Tue, 01 Sep 2015 18:50:03 GMT
-Last-Modified: Tue, 01 Sep 2015 18:50:03 GMT
+Date: Wed, 02 Sep 2015 19:59:44 GMT
+Expires: Wed, 02 Sep 2015 19:59:44 GMT
+Last-Modified: Wed, 02 Sep 2015 19:59:44 GMT
 Pragma: no-cache
 Server: waitress
 
 {
     "count": 5,
     "data": [
+        {
+            "_type": "GiiCountry",
+            "country": "Burundi",
+            "labour_force_participation_rate_aged_15_and_above_female_2012": 83.2
+        },
         {
             "_type": "GiiCountry",
             "country": "Zimbabwe",
@@ -436,35 +443,32 @@ Server: waitress
             "_type": "GiiCountry",
             "country": "Netherlands",
             "labour_force_participation_rate_aged_15_and_above_female_2012": 79.9
-        },
-        {
-            "_type": "GiiCountry",
-            "country": "Eritrea",
-            "labour_force_participation_rate_aged_15_and_above_female_2012": 79.9
         }
     ],
     "fields": "country,labour_force_participation_rate_aged_15_and_above_female_2012",
-    "start": 6,
-    "took": 4,
+    "start": 5,
+    "took": 7,
     "total": 206
 }
 ```
 
-Give it up for Zimbabwe!
+**Notice the index starts at zero, so we say `_start==5` to start at the 6th record.**
+
+Give it up for Burundi and Zimbabwe!
 
 ##### "Bronze medallists":
 
-Even though we can use the `_start` parameter like we did for the silver medallists, let's use `_page` to get the bronze countries instead. This should give us the 11th-15th records, inclusive.
+Even though we can use the `_start` parameter like we did for the silver medallists, let's use `_page` to get the bronze countries instead. This should give us the 11th-15th records, inclusive. The `_page` parameter, like `_start`, is also zero-indexed.
 
 ```bash
-$ http :6543/api/gii_countries _limit==5 _page==3 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
+$ http :6543/api/gii_countries _limit==5 _page==2 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
 HTTP/1.1 200 OK
 Cache-Control: max-age=0, must-revalidate, no-cache, no-store
-Content-Length: 749
+Content-Length: 765
 Content-Type: application/json; charset=UTF-8
-Date: Tue, 01 Sep 2015 19:00:51 GMT
-Expires: Tue, 01 Sep 2015 19:00:51 GMT
-Last-Modified: Tue, 01 Sep 2015 19:00:51 GMT
+Date: Wed, 02 Sep 2015 20:37:11 GMT
+Expires: Wed, 02 Sep 2015 20:37:11 GMT
+Last-Modified: Wed, 02 Sep 2015 20:37:11 GMT
 Pragma: no-cache
 Server: waitress
 
@@ -473,38 +477,38 @@ Server: waitress
     "data": [
         {
             "_type": "GiiCountry",
-            "country": "Uganda",
-            "labour_force_participation_rate_aged_15_and_above_female_2012": 75.9
+            "country": "Eritrea",
+            "labour_force_participation_rate_aged_15_and_above_female_2012": 79.9
         },
         {
             "_type": "GiiCountry",
-            "country": "Namibia",
-            "labour_force_participation_rate_aged_15_and_above_female_2012": 75.2
+            "country": "Cambodia",
+            "labour_force_participation_rate_aged_15_and_above_female_2012": 78.9
         },
         {
             "_type": "GiiCountry",
-            "country": "Zambia",
-            "labour_force_participation_rate_aged_15_and_above_female_2012": 73.2
+            "country": "Ethiopia",
+            "labour_force_participation_rate_aged_15_and_above_female_2012": 78.2
         },
         {
             "_type": "GiiCountry",
-            "country": "Viet Nam",
-            "labour_force_participation_rate_aged_15_and_above_female_2012": 72.8
+            "country": "Burkina Faso",
+            "labour_force_participation_rate_aged_15_and_above_female_2012": 77.1
         },
         {
             "_type": "GiiCountry",
-            "country": "Central African Republic",
-            "labour_force_participation_rate_aged_15_and_above_female_2012": 72.5
+            "country": "Lao People's Democratic Republic",
+            "labour_force_participation_rate_aged_15_and_above_female_2012": 76.3
         }
     ],
     "fields": "country,labour_force_participation_rate_aged_15_and_above_female_2012",
-    "start": 15,
-    "took": 6,
+    "start": 10,
+    "took": 3,
     "total": 206
 }
 ```
 
-Nice showing, Uganda!
+Nice showing, Eritrea!
 
 ### Elasticsearch DSL powers
 
