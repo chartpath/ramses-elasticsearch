@@ -2,7 +2,7 @@
 
 Many startup products these days seem to take the form of "collect data from a third party and mash it up with something".
 
-In this short guide I'm going to show you how download a dataset and create a REST API out of it. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to expose Elasticsearch directly in production. This also allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
+In this short guide I'm going to show you how to download a dataset and create a REST API out of it. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to expose Elasticsearch directly in production. This also allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
 
 [Ramses](https://github.com/brandicted/ramses) is a bit like [Parse](https://parse.com/) for open source in that it provides the convenience of a "backend as a service", except that you run the server yourself and have full access to the internals.
 
