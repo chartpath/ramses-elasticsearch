@@ -6,7 +6,7 @@ In this short guide I'm going to show you how download a dataset and create a RE
 
 Ramses is a bit like Parse for open source in that it provides the convenience of "backend as a service", except that you run the server yourself and have full access to the internals. Also, there's no fancy GUI (yet).
 
-One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon.
+One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon. ![Gender Equality](https://github.com/chrstphrhrt/ramses-elasticsearch/raw/master/eq.jpg)
 
 Read all about the dataset here: http://hdr.undp.org/en/content/gender-inequality-index-gii
 
@@ -340,7 +340,9 @@ If you want to reverse the sort order you can put a minus sign before the field 
 
 To customize where in the records the pagination begins or which page of the sequence to return, we use the `_start` and `_page` parameters.
 
-For example, let's say we have a leaderboard app that considers the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we also want to filter out the noise from the other fields since we only care about one particular metric. This could be returned like so:
+#### Imaginary leaderboard app
+
+For example, let's say we have a leaderboard app that considers the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we also want to filter out the noise from the other fields since we only care about one particular metric. Here are some examples of how to do that.
 
 **"Gold medal" countries for women's participation in the labour market:**
 ```bash
