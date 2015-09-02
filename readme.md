@@ -6,7 +6,7 @@ In this short guide I'm going to show you how download a dataset and create a RE
 
 [Ramses](https://github.com/brandicted/ramses) is a bit like [Parse](https://parse.com/) for open source in that it provides the convenience of a "backend as a service", except that you run the server yourself and have full access to the internals.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Igualtat_de_sexes.svg/2000px-Igualtat_de_sexes.svg.png" alt="Gender Equality" style="width:200px;float:right;padding-left:20px"> One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Igualtat_de_sexes.svg/2000px-Igualtat_de_sexes.svg.png" alt="Gender Equality" width=200 align=right hspace=30 /> One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon.
 
 
 Read all about the dataset here: http://hdr.undp.org/en/content/gender-inequality-index-gii
@@ -343,7 +343,7 @@ To customize where in the records the pagination begins or which page of the seq
 
 #### Imaginary leaderboard app
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" style="width:240px;float:left;padding-right:20px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" width=240 align=left hspace=30 />
 
 For example, let's say we have a leaderboard app that considers the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we also want to filter out the noise from the other fields since we only care about one particular metric. Here are some examples of how to do that.
 
@@ -396,7 +396,7 @@ Server: waitress
 }
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png" alt="Tanzania" style="width:160px;float:right;padding-left:20px"> Way to go Tanzania! It would be interesting to learn more about the nature and quality of these jobs as well, but that is beyond our scope here.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png" alt="Tanzania" width=160 align=right hspace=30 /> Way to go Tanzania! It would be interesting to learn more about the nature and quality of these jobs as well, but that is beyond our scope here.
 
 ##### "Silver medallists" in women's labour market participation:
 
