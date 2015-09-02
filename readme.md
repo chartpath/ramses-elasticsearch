@@ -47,7 +47,7 @@ There are two main files in the boilerplate project right now: `api.raml`, and `
 
 We are going to replace these files with real ones based on the GII data.
 
-First, download the data from the UNDP site to the root of the project (`gii_api/`), and rename the old `items.json` to `gii_schema.json`.
+First, download the data to the root of the project (`gii_api/`), and rename the old `items.json` to `gii_schema.json`.
 
 ```bash
 $ wget https://raw.githubusercontent.com/chrstphrhrt/ramses-elasticsearch/master/gii_api/gii_data.json
@@ -55,6 +55,8 @@ $ wget https://raw.githubusercontent.com/chrstphrhrt/ramses-elasticsearch/master
 2015-08-31 15:58:34 (198 KB/s) - 'gii_data.json' saved [75659]
 $ mv items.json gii_schema.json
 ```
+
+**Note**: you can also get the data from the UNDP site but I wanted to clean it up a little beforehand for this guide.
 
 Now edit the `gii_schema.json` file to describe the fields we see in the raw data. Look in `gii_data.json` for the field names and types.
 
@@ -389,7 +391,7 @@ Server: waitress
 }
 ```
 
-Way to go Tanzania! Of course we don't know about the pay equity situation or anything about job quality, so let's just roll with this data for the sake of example.
+Way to go Tanzania! It would be interesting to learn about the nature of these jobs as well, but that is beyond the scope here.
 
 **"Silver medallists" in women's labour market participation:**
 
