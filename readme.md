@@ -452,7 +452,7 @@ Server: waitress
 }
 ```
 
-**Notice the index starts at zero, so we say `_start==5` to start at the 6th record.**
+*Notice the index starts at zero, so we say `_start==5` to start at the 6th record.*
 
 Give it up for Burundi and Zimbabwe!
 
