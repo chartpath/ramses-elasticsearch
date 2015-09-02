@@ -669,7 +669,7 @@ Server: waitress
 }
 ```
 
-The average global gender inequality, expressed as a percentage of "lost" human development is 38%. That is, if there was no gender inequality, the world would be considered 38% more developed than it currently is as a result of the gender inequality.
+The average global gender inequality, expressed as a percentage of "lost" human development is 38%. That is, if there was no gender inequality, the world would be considered 38% more developed than it currently is.
 
 ## Bonus
 
