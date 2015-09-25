@@ -1,7 +1,5 @@
 # Make an Elasticsearch-powered REST API for any data with Ramses
 
-Many startup products these days seem to take the form of "collect data from a third party and mash it up with something".
-
 In this short guide, I'm going to show you how to download a dataset and create a REST API. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to directly expose Elasticsearch in production. This allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
 
 [Ramses](https://github.com/brandicted/ramses) is a bit like [Parse](https://parse.com/) for open source. It provides the convenience of a "backend as a service", except that you run the server yourself and have full access to the internals.
@@ -274,7 +272,7 @@ Starting server in PID 45998.
 serving on http://0.0.0.0:6543
 ```
 
-It's time to post all the data to the API so that we can start making queries. With the server already running, open a new terminal. I like to use our built-in script for this. Activate the project's virtual environment and do the post like so:
+It's time to post all the data to the API so that we can start making queries. With the server already running, open a new terminal. I like to use our built-in script for this. Activate the virtual environment, and call the `post2api` script like so:
 
 ```bash
 $ cd gii_project/
@@ -344,7 +342,7 @@ To customize where in the records the pagination begins or which page of the seq
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" width=240 align=right hspace=30 />
 
-For example, let's say we have a leaderboard app that classifies the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we only care about on particular metrics, and want to filter out the noise from the other fields. Here are some examples of how to do that.
+For example, let's say we have a leaderboard app that classifies the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we only care about particular metrics, and want to filter out the noise from the other fields. Here are some examples of how to do that.
 
 ##### "Gold medal" countries for women's participation in the labour market:
 ```bash
