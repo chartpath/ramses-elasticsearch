@@ -2,26 +2,23 @@
 
 Many startup products these days seem to take the form of "collect data from a third party and mash it up with something".
 
-In this short guide I'm going to show you how to download a dataset and create a REST API out of it. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to expose Elasticsearch directly in production. This also allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
+In this short guide, I'm going to show you how to download a dataset and create a REST API. This new API uses Elasticsearch to power the endpoints, so you can build a product around your data without having to directly expose Elasticsearch in production. This allows for proper authentication, authorization, custom logic, other databases, and even auto-generated client libraries.
 
-[Ramses](https://github.com/brandicted/ramses) is a bit like [Parse](https://parse.com/) for open source in that it provides the convenience of a "backend as a service", except that you run the server yourself and have full access to the internals.
+[Ramses](https://github.com/brandicted/ramses) is a bit like [Parse](https://parse.com/) for open source. It provides the convenience of a "backend as a service", except that you run the server yourself and have full access to the internals.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Igualtat_de_sexes.svg/2000px-Igualtat_de_sexes.svg.png" alt="Gender Equality" width=200 align=right hspace=30 /> One interesting dataset I came across recently is the Gender Inequality Index that is published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. This dataset is missing non-binary gender identities, so hopefully the UNDP will be able to add that soon.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Igualtat_de_sexes.svg/2000px-Igualtat_de_sexes.svg.png" alt="Gender Equality" width=200 align=right hspace=30 />I recently came across the Gender Inequality Index, an interesting dataset published by the UN Development Programme. This dataset is a twist on the classic Human Development Index. The HDI ranks countries based on their levels of lifespan, education and income. The GII, on the other hand, ranks countries based on how they stack up in terms of gender (in)equality. The metrics in the GII are a combination of women's reproductive health, social empowerment, and labour force participation. Unfortuately, this dataset is missing non-binary gender identities, so our exploration will be a bit limited until that information is added. You can [read more about the dataset](http://hdr.undp.org/en/content/gender-inequality-index-gii) from the United Nations Development Programme. 
 
+This dataset enables us to dig into some really interesting questions. Let's make a REST API out of the GII and then query it in fun ways using the Elasticsearch query DSL via the endpoint URL.
 
-Read all about the dataset here: http://hdr.undp.org/en/content/gender-inequality-index-gii
-
-Let's make a REST API out of the GII and then query it in fun ways using the Elasticsearch query DSL via the endpoint URL.
-
-You can see the completed code for this example here: https://github.com/chrstphrhrt/ramses-elasticsearch
+You can jump ahead to see [the completed code for this example here] (https://github.com/chrstphrhrt/ramses-elasticsearch).
 
 ## Set up the project
 
-I'm assuming you have some things already working before we dive in:
+Before we dive in, make sure these pieces are in place:
 
 * Recent versions of Elasticsearch and PostgreSQL installed and running in the background with default configurations.
 * Python 2.7, 3.3 or 3.4 and [virtualenv](https://virtualenv.pypa.io/en/latest/)
-* I'm using [httpie](https://github.com/jkbrzt/httpie) but you can use curl if you want.
+* A CLI HTTP client (I'm using [httpie](https://github.com/jkbrzt/httpie) but you can use curl if you prefer)
 
 Open a terminal, install Ramses, and create your new project:
 
@@ -45,11 +42,11 @@ serving on http://0.0.0.0:6543
 
 ## Model and post the data
 
-There are two main files in the boilerplate project right now: `api.raml`, and `items.json`. `api.raml` is a [RAML](http://raml.org/) file, which is a DSL for describing REST APIs in YAML. It configures your endpoints. `items.json` is the schema that describes the fake boilerplate "Item" model.
+There are two main files in the boilerplate project right now: `api.raml`, and `items.json`. `api.raml` is a [RAML](http://raml.org/) file, which is a DSL for describing REST APIs in YAML. It configures your endpoints.  `items.json` is the schema that describes the fake boilerplate "Item" model.
 
 We are going to replace these files with real ones based on the GII data.
 
-First, download the data to the root of the project (`gii_api/`), and rename the old `items.json` to `gii_schema.json`.
+First, download the data to the root of the project (`gii_api/`), and rename the old `items.json` to  `gii_schema.json`.
 
 ```bash
 $ wget https://raw.githubusercontent.com/chrstphrhrt/ramses-elasticsearch/master/gii_api/gii_data.json
@@ -58,7 +55,7 @@ $ wget https://raw.githubusercontent.com/chrstphrhrt/ramses-elasticsearch/master
 $ mv items.json gii_schema.json
 ```
 
-**Note**: you can also get the data from the [UNDP site](http://hdr.undp.org/en/content/gender-inequality-index-gii) but I wanted to clean it up a little beforehand for this guide.
+**Note**: you can also get the data directly from the [UNDP site](http://hdr.undp.org/en/content/gender-inequality-index-gii). I cleaned it up a little for this guide.
 
 Now edit the `gii_schema.json` file to describe the fields we see in the raw data. Look in `gii_data.json` for the field names and types.
 
@@ -114,7 +111,7 @@ Now look in `gii_schema.json`:
 }
 ```
 
-We want to replace the "properties" section with the field names and types from our dataset. Update the `title` and `required` fields, and make the `country` field be the primary key, like so:
+We want to replace the "properties" section with the field names and types from our dataset. Update the `title` and `required` fields, and make the `country` field the primary key, like so:
 
 ```json
 {
@@ -183,7 +180,7 @@ We want to replace the "properties" section with the field names and types from 
 }
 ```
 
-**Note:** the `_db_settings` is Ramses-specific and is used to tell the DB engine(s) how to configure themselves. There are a bunch more options in addition to the types. Have a look at the docs here: https://ramses.readthedocs.org/en/stable/fields.html
+**Note:** the `_db_settings` is Ramses-specific and is used to tell the DB engine(s) how to configure themselves. There are a lot of fields that can be set in addition to the types. For a [full list](https://ramses.readthedocs.org/en/stable/fields.html), have a look at the docs. 
 
 Now that we have data and a schema to describe it, let's hook up the endpoints. Open `api.raml` and change the boilerplate Item endpoint to use the GII countries schema instead.
 
@@ -222,7 +219,7 @@ protocols: [HTTP]
             description: Update a particular item
 ```
 
-...and after:
+And after:
 
 ```yaml
 #%RAML 0.8
@@ -257,9 +254,9 @@ protocols: [HTTP]
             description: Update a particular country
 ```
 
-Simple!
+It's that simple!
 
-Now we can drop the database, delete the Elasticsearch index and restart the server.
+Now we can drop the database, delete the Elasticsearch index, and restart the server.
 
 ```bash
 (venv)$ dropdb gii_api
@@ -290,11 +287,11 @@ Posting: {"_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": "7", 
 
 ## Querying the data
 
-If you want to go directly to the reference, you can see all the following techniques (and more) documented here: https://nefertari.readthedocs.org/en/stable/making_requests.html
+If you want to get a complete picture of what you can do, go directly to [the reference documentation](https://nefertari.readthedocs.org/en/stable/making_requests.html). This covers all of the following techniques (and more). 
 
 Now we can start poking around in the data to see what kinds of interesting facts we are able to extract with Ramses.
 
-Here's the most basic request, showing a specific country:
+Here's the most basic request, to show data for a specific country:
 
 ```bash
 $ http :6543/api/gii_countries/Norway
@@ -329,9 +326,9 @@ Server: waitress
 
 ### Limit and sort
 
-If you make a GET request to the `/api/gii_countries` collection, you'll get 20 records because that is the default limit.
+If you make a GET request to the `/api/gii_countries` collection, you'll get the default limit of 20 records.
 
-Cool! How about something more interesting, like the top 50 countries sorted by their HDI ranking.
+How about something more interesting, like the top 50 countries sorted by their HDI ranking?
 
 ```bash
 $ http :6543/api/gii_countries _limit==50 _sort==hdi_rank
@@ -347,7 +344,7 @@ To customize where in the records the pagination begins or which page of the seq
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Pinball_Dot_Matrix_Display_-_Demolition_Man.JPG" alt="Scoring" width=240 align=right hspace=30 />
 
-For example, let's say we have a leaderboard app that considers the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we also want to filter out the noise from the other fields since we only care about one particular metric. Here are some examples of how to do that.
+For example, let's say we have a leaderboard app that classifies the top 5 countries as "gold medallists", the next 5 as "silver" and the 5 after that as "bronze". Maybe we only care about on particular metrics, and want to filter out the noise from the other fields. Here are some examples of how to do that.
 
 ##### "Gold medal" countries for women's participation in the labour market:
 ```bash
@@ -398,11 +395,11 @@ Server: waitress
 }
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png" alt="Tanzania" width=160 align=right hspace=30 /> Way to go Tanzania! It would be interesting to learn more about the nature and quality of these jobs as well, but that is beyond our scope here.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1280px-Flag_of_Tanzania.svg.png" alt="Tanzania" width=160 align=right hspace=30 /> Way to go, Tanzania! (It would be interesting to learn more about the nature and quality of these jobs as well, but that is beyond our scope here.)
 
 ##### "Silver medallists" in women's labour market participation:
 
-Let's add another argument `_start` to get the 6th-10th records, inclusive.
+Let's add the `_start` argument to get the 6th-10th records, inclusive.
 
 ```bash
 $ http :6543/api/gii_countries _limit==5 _start==5 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
@@ -452,13 +449,13 @@ Server: waitress
 }
 ```
 
-*Notice the index starts at zero, so we say `_start==5` to start at the 6th record.*
+**Note**: Because the index starts at zero, we use `_start==5` to start at the 6th record.*
 
 Give it up for Burundi and Zimbabwe!
 
 ##### "Bronze medallists":
 
-Even though we can use the `_start` parameter like we did for the silver medallists, let's use `_page` to get the bronze countries instead. This should give us the 11th-15th records, inclusive. The `_page` parameter, like `_start`, is also zero-indexed.
+We can use the `_start` parameter here like we did for the silver medallists, but let's try using `_page` to get the bronze countries instead. This should give us the 11th-15th records, inclusive. The `_page` parameter, like `_start`, is also zero-indexed.
 
 ```bash
 $ http :6543/api/gii_countries _limit==5 _page==2 _sort==-labour_force_participation_rate_aged_15_and_above_female_2012 _fields==country,labour_force_participation_rate_aged_15_and_above_female_2012
@@ -516,7 +513,7 @@ This is where the real magic happens.
 
 #### Full-text search
 
-We already know that we can access individual country records by endpoints using the country's name e.g. `/api/gii_countries/Canada`, but one thing I noticed about the data is that certain countries have more official/legal names according to the UN. For example, I'm pretty sure Venezuela is a country, but if I try to request its endpoint...
+We already know that we can access individual country records by endpoints using the country's name e.g. `/api/gii_countries/Canada`, but I noticed that certain countries have more official/legal names according to the UN, and might not be listed under their more common names. For example, I'm pretty sure Venezuela is a country, but if I try to request its endpoint:
 
 ```bash
 $ http :6543/api/gii_countries/Venezuela
@@ -540,7 +537,7 @@ Server: waitress
 }
 ```
 
-...no dice. Enter full-text search!
+No dice. Enter full-text search!
 
 ```bash
 $ http :6543/api/gii_countries country==Venezuela
@@ -588,7 +585,7 @@ Aha! Turns out the full name for Venezuela is "Venezuela (Bolivarian Republic of
 
 #### Ranges
 
-Maybe we'd like to know which countries have women holding at least 50% of the seats in parliament. Voila:
+Maybe we'd like to know which countries have women holding at least 50% of the seats in parliament. Voilà:
 
 ```bash
 $ http :6543/api/gii_countries _2013_share_of_seats_in_parliament_held_by_women=="[50 TO *]"
@@ -655,9 +652,9 @@ Not bad Andorra and Rwanda, not bad at all.
 
 #### Aggregations
 
-First, open `local.ini` and change `elasticsearch.enable_aggregations` to `true` because this feature is disabled by default. Then restart the server.
-
 Let's say we want to know something that requires a little computation, like the average level of gender inequality worldwide. This (and all kinds of other questions) can be answered using aggregations.
+
+First, open `local.ini` and change `elasticsearch.enable_aggregations` to `true` because this feature is disabled by default. Then, restart the server.
 
 ```bash
 $ http :6543/api/gii_countries _aggs.avg_gender_ineq.avg.field==gender_inequality_index_value_2013
@@ -678,7 +675,7 @@ Server: waitress
 }
 ```
 
-The average global gender inequality, expressed as a percentage of "lost" human development is 38%. That is, if there was no gender inequality, the world would be considered 38% more developed than it currently is.
+The average global gender inequality, expressed as a percentage of "lost" human development, is 38%. That is, if there was no gender inequality, the world would be considered 38% more developed than its current state.
 
 ## Bonus
 
@@ -715,8 +712,8 @@ Shut down and restart the server. Now if you rerun the above aggregation and loo
 }'
 ```
 
-With that information you can compare the queries that the server generates, directly with the Elasticsearch aggregations documentation. Now you can explore and figure out how to build more advanced aggregations! Check it out: https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html
+With that information you can compare the queries that the server generates directly with the Elasticsearch aggregations documentation. Now you can explore and figure out how to build more advanced aggregations! Check out the [Elastic aggregations docs to learn more](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html). 
 
 ## Help
 
-Chat with the Ramses team on our Gitter channel for help digging into the data more, or for any help using the stack on your own projects. Join us here: https://gitter.im/brandicted/ramses?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+The Ramses team is available to chat on our Gitter channel, for help digging into the data, or for any help using the stack on your own projects. [Join us here](https://gitter.im/brandicted/ramses?utm_source=share-link&utm_medium=link&utm_campaign=share-link). 
