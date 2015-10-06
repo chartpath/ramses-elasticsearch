@@ -28,7 +28,7 @@ $ source venv/bin/activate
 (venv)$ pcreate -s ramses_starter gii_api
 ```
 
-Choose Postgres (option 1) as your database and open the new project in a text editor to look around. Then, start the server to make sure it works. It should look something like this:
+When prompted by `pcreate`, choose PostgreSQL (option 1) as your database and open the new project in a text editor to look around. Then, start the server to make sure it works. It should look something like this:
 
 ```bash
 (venv)$ cd gii_api
