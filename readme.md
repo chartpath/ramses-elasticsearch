@@ -276,7 +276,7 @@ It's time to post all the data to the API so that we can start making queries. W
 
 ```bash
 $ cd gii_project/
-$ . venv/bin/activate
+$ source venv/bin/activate
 (venv)$ nefertari.post2api -f gii_api/gii_data.json -u http://localhost:6543/api/gii_countries
 Posting: {"_2010_maternal_mortality_ratio_deaths_per_100_000_live_births": "7", "gender_inequality_index_rank_2013": "9", "gender_inequality_index_value_2013": "0.068", "country": "Norway", "population_with_some_secondary_ed_aged_25_and_up_fem_2005_2012": "97.4", "_2013_share_of_seats_in_parliament_held_by_women": "39.6", "_2010_2015_adolescent_birth_rate_births_per_1_000_women_aged_15_19": "7.8", "labour_force_participation_rate_aged_15_and_above_female_2012": "61.5", "labour_force_participation_rate_aged_15_and_above_male_2012": "69.5", "hdi_rank": "1", "population_with_some_secondary_ed_aged_25_and_up_male_2005_2012": "96.7"}
 201
