@@ -8,7 +8,7 @@ In this short guide, I'm going to show you how to download a dataset and create 
 
 This dataset enables us to dig into some really interesting questions. Let's make a REST API out of the GII and then query it in fun ways using the Elasticsearch query DSL via the endpoint URL.
 
-You can jump ahead to see [the completed code for this example here] (https://github.com/chrstphrhrt/ramses-elasticsearch).
+You can jump ahead to see [the completed code for this example here](https://github.com/chrstphrhrt/ramses-elasticsearch).
 
 ## Set up the project
 
@@ -24,7 +24,7 @@ Open a terminal, install Ramses, and create your new project:
 $ mkdir gii_project && cd gii_project
 $ virtualenv venv
 $ source venv/bin/activate
-(venv)$ pip install ramses
+(venv)$ pip install ramses==0.5.0
 (venv)$ pcreate -s ramses_starter gii_api
 ```
 
